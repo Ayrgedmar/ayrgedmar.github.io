@@ -65,6 +65,10 @@ Lightbox has been enabled for images. To create the link that'll launch the ligh
   <img src="//bencentra.com/assets/images/falcon9_small.jpg" title="Check out the Falcon 9 from SpaceX">
 </a>
 
+<a href="/assets/Screenshot_14.png" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
+  <img src="/assets/Screenshot_14.png" title="Check out the Falcon 9 from SpaceX">
+</a>
+
 For more information, check out the [Lightbox][lightbox] website.
 
 ### Tooltips
