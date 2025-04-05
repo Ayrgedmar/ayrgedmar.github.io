@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Typography
-permalink: /typography/
+title: Mods
+permalink: /mods/
 main_nav: true
 ---
 

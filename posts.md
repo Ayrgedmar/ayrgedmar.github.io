@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Posts"
-permalink: /posts/
+title: "Portfolio"
+permalink: /portfolio/
 main_nav: true
 ---
 
