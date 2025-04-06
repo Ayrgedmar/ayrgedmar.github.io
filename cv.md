@@ -10,9 +10,8 @@ main_nav: true
 
 qwoterlow@gmail.com
 
-<h2> 
 
-[LinkedIn](https://www.linkedin.com/in/ayrgedmar/) </h2>
+[LinkedIn](https://www.linkedin.com/in/ayrgedmar/)
 
 <h4>Language</h4>
 
@@ -34,6 +33,11 @@ English - B2
 Oct 2024 - Apr 2025
 
 Как лид, участвовал в найме сотрудника. В подчинении были джун и мидл дизайнеры. Участвовал в создании пайплайна разработки карт для компании. Управлял сотрудниками и планировал работу. Решал организационные и технические задачи не только внутри ЛД отдела, но и работу совместно с ГД, ЛА, Нарративом, Саунд Дизайном и Программистами. Писал требования к уровням и документацию для отдела.
+
+<ul> 
+<li>Planning</li>
+<li>Managment</li>
+</ul>
 
 <h3>Level designer</h3>
 Dec 2023 - Oct 2024
@@ -100,8 +104,10 @@ According to internal analytics my released map ranks the third place in players
 <hr>
 <hr>
 
-<table cellspacing="2" cellpadding="2">
-  <tr>
+
+<table cellspacing="3" cellpadding="0">
+
+ <tr>
     <th>Tools</th><th>Skills</th>
   </tr>
   <tr>
