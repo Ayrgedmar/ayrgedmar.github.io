@@ -9,8 +9,19 @@ main_nav: true
 <h1 id="headings">Tolstikhina Iana - Level Designer</h1>
 
 qwoterlow@gmail.com
-[LinkedIn](https://www.linkedin.com/in/ayrgedmar/)
 
+<h2> 
+
+[LinkedIn](https://www.linkedin.com/in/ayrgedmar/) </h2>
+
+<h4>Language</h4>
+
+Russian - Native
+
+English - B2
+
+
+<hr>
 <hr>
 
 <h2>Farcana</h2>
@@ -26,8 +37,9 @@ Oct 2024 - Apr 2025
 
 <h3>Level designer</h3>
 Dec 2023 - Oct 2024
+
 Участие в создании PC моба шутера.
-Вместе с командой разрабатывали дизайн карт, опираясь на существующие проекты Overwotch 2, Team
+Вместе с командой разрабатывали дизайн карт, опираясь на существующие проекты Overwatch 2, Team
 Fortress 2, Paladins.
 
 Разработал 4 карты от схемы до вайтбокса для разных гейммодов.
@@ -41,6 +53,8 @@ Fortress 2, Paladins.
 
 
 <hr>
+<hr>
+
 <h2>Infusion Games</h2>
 
 [Infusion Games](https://infusion.games/) - [Cyber Wars](https://infusion.games/#cyber)
@@ -58,6 +72,7 @@ Made 3 maps
 <li>Gameplay setup</li>
 </ul>
 
+<hr>
 <hr>
 <h2>GD Company</h2>
 
@@ -83,35 +98,35 @@ According to internal analytics my released map ranks the third place in players
 </ul>
 
 <hr>
-
-<h3>Skills</h3>
-
-<ul> 
- <li>Level design</li>
- <li>Game Documentation</li>
- <li>3D Modeling</li>
- <li>Managment</li>
- <li>Department planning</li>
- <li>Crossdepartmant sin</li>
- <li>Implimenting</li>
-</ul>
-
 <hr>
 
-<h3>Tools</h3>
-<ul>
-  <li>UE5</li>
-  <li>Unity</li>
-  <li>Maya</li>
-  <li>Git</li>
-  <li>Miro</li>
-  <li>Photoshop</li>
-</ul>
-
-<hr>
-
-<h3>Language</h3>
-<ul>
- <li>Russian - Native</li>
- <li>English - B2</li>
-</ul>
+<table cellspacing="2" cellpadding="2">
+  <tr>
+    <th>Tools</th><th>Skills</th>
+  </tr>
+  <tr>
+    <td>UE5</td><td>UE5</td>
+  </tr>
+  <tr class="even">
+    <td>Unity</td><td>Level design</td>
+  </tr>
+  <tr>
+    <<td>Maya</td><td>Game Documentation</td>
+  </tr>
+   <tr>
+    <<td>Miro</td><td>3D Modeling</td>
+  </tr>
+   <tr>
+    <<td></td><td>Managment</td>
+  </tr>
+   <tr>
+    <<td></td><td>Department planning</td>
+  </tr>
+   <tr>
+    <<td></td><td>Crossdepartmant sin</td>
+  </tr>
+   <tr>
+    <<td></td><td>Implimenting</td>
+  </tr>
+</table>
+</div>
