@@ -15,10 +15,10 @@ qwoterlow@gmail.com
 
 <h4>Language</h4>
 
-Russian - Native
-
-English - B2
-
+<ul> 
+<li>Russian - Native</li>
+<li>English - B2</li>
+</ul> 
 
 <hr>
 <hr>
@@ -29,7 +29,7 @@ English - B2
 [Farcana EGS](https://store.epicgames.com/en-US/p/farcana-a75731)
 
 
-<h3>Lead Level designer</h3>
+<h4>Lead Level designer</h4>
 Oct 2024 - Apr 2025
 
 Как лид, участвовал в найме сотрудника. В подчинении были джун и мидл дизайнеры. Участвовал в создании пайплайна разработки карт для компании. Управлял сотрудниками и планировал работу. Решал организационные и технические задачи не только внутри ЛД отдела, но и работу совместно с ГД, ЛА, Нарративом, Саунд Дизайном и Программистами. Писал требования к уровням и документацию для отдела.
@@ -39,7 +39,7 @@ Oct 2024 - Apr 2025
 <li>Managment</li>
 </ul>
 
-<h3>Level designer</h3>
+<h4>Level designer</h4>
 Dec 2023 - Oct 2024
 
 Участие в создании PC моба шутера.
@@ -62,7 +62,7 @@ Fortress 2, Paladins.
 <h2>Infusion Games</h2>
 
 [Infusion Games](https://infusion.games/) - [Cyber Wars](https://infusion.games/#cyber)
-<h3>Level designer </h3>
+<h4>Level designer </h4>
 Sep 2022 - Nov 2023
 
 Mobile free to play multiplayer FPS.
@@ -82,7 +82,7 @@ Made 3 maps
 
 [GD Company](https://www.linkedin.com/company/gdcompany/) - [War After](https://play.google.com/store/apps/details?id=com.gdcompany.modernshooter.warfareops)
 
-<h3>Level designer/artist</h3>
+<h4>Level designer/artist</h4>
 Oct 2020 - Dec 2021
 
 Mobile free to play tactical multiplayer FPS
@@ -102,8 +102,6 @@ According to internal analytics my released map ranks the third place in players
 </ul>
 
 <hr>
-<hr>
-
 
 <table cellspacing="3" cellpadding="0">
 
