@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Commercial work"
+layout: post
+title: Commercial work
 permalink: /cw/
 main_nav: true
 ---

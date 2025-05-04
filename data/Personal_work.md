@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Personal works"
+layout: post
+title: Personal works
 permalink: /pw/
 main_nav: true
 ---
