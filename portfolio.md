@@ -5,4 +5,4 @@ permalink: /portfolio/
 main_nav: true
 ---
 
-[Farcana EGS](data/UT_The_Scola_Tower)
+[Farcana EGS](../data/UT_The_Scola_Tower)
