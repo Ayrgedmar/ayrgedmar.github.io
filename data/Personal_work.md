@@ -7,6 +7,8 @@
 <h4>Other</h4>
 
 [Sci-Fi Statin](../data/showcase/CGMA_Station)
+
 [Open World case](../data/showcase/CGMA_World)
+
 [City Blocking](../data/showcase/CGMA_City)
 
