@@ -2,7 +2,7 @@
 layout: post
 title: Commercial work
 permalink: /cw/
-main_nav: true
+main_nav: false
 ---
 
 {% for category in site.categories %}
