@@ -7,6 +7,6 @@ main_nav: true
 
 [Commercial work](../data/Commercial_work)
 
-[Personal works](data/Personal_work)
+[Personal works](../data/Personal_work)
 
-[Mods](data/mods)
+[Mods](../data/mods)
