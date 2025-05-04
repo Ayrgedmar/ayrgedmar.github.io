@@ -4,7 +4,7 @@ title:  "The Scola Tower"
 date:   
 author: 2020
 categories: Mods
-cover:  "/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png"
+cover:  "/assets/Portfolio/Mods/UT_The_Scola_Tower/Screenshot_18.png"
 ---
 
 References
@@ -44,34 +44,18 @@ I wanted not only dynamic transitions between rooms (horizontal part), but also 
 
 The arenas are open areas where players will clash. They are located in the basement, in the backyard in both parts and in the main part of the map. Everywhere there are weapons or first aid kits as points of attraction.  This will enhance the effect of flow and motivation of constant movement on the location.
 
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" data-lightbox="GB" data-title="GB">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png">
-</a>
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Arena2.png" data-lightbox="GB" data-title="GB">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Arena2.png">
-</a>
+----
 
-<h4>Hight ground</h4>
+<h4>Sniper tower</h4>
 
-The hight ground is positioned so that you can see from both sides. The height gives an excellent view, but this place is very open and the sniper can be easily removed.
-
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/HG1.png" data-lightbox="HG" data-title="HG">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/HG1.png">
-</a>
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/HG2.png" data-lightbox="HG" data-title="HG">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/HG2.png">
-</a>
+The sniper tower is positioned so that you can see from both sides. The height gives an excellent view, but this place is very open and the sniper can be easily removed.
+----
 
 <h4>Cellar</h4>
 
 The basement is the most closed room, it gives a little respite from the open spaces. 
 
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Cellar1.png" data-lightbox="HG" data-title="HG">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Cellar1.png">
-</a>
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Cellar2.png" data-lightbox="HG" data-title="HG">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Cellar2.png">
-</a>
+----
 
 <h2>Visual design</h2>
 
@@ -81,6 +65,4 @@ The open space and the enclosed blend harmoniously in colors - cold blue and war
 
 To optimize the light I used Light Impotens Value. 
 
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/VD1.png" data-lightbox="HG" data-title="HG">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/VD1.png">
-</a>
+----
