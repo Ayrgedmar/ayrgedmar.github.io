@@ -9,7 +9,4 @@ main_nav: true
 
 [Personal works](data/Personal_work)
 
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" data-lightbox="refs" data-title="Refs">
-</a>
-
 [Mods](data/mods)
