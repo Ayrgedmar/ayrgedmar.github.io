@@ -47,11 +47,11 @@ The arenas are open areas where players will clash. They are located in the base
 <a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" data-lightbox="GB" data-title="GB">
   <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png">
 </a>
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Ref2_cut.jpg" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Ref2_cut.jpg">
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Ref2_cut.jpg" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Ref2_cut.jpg">
 </a>
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Bsm1.gif" data-lightbox="GB" data-title="GB">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Bsm1.gif">
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Bsm1.gif" data-lightbox="GB" data-title="GB">
+  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Bsm1.gif">
 </a>
 
 <h4>Hight ground</h4>
