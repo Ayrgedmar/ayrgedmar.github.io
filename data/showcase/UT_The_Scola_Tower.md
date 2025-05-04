@@ -47,11 +47,14 @@ The arenas are open areas where players will clash. They are located in the base
 <a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" data-lightbox="GB" data-title="GB">
   <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png">
 </a>
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Ref2_cut.jpg" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Ref2_cut.jpg">
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Arena1.gif" data-lightbox="GB" data-title="GB">
+  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Arena1.gif">
 </a>
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Bsm1.gif" data-lightbox="GB" data-title="GB">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Bsm1.gif">
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Arena2.png" data-lightbox="GB" data-title="GB">
+  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Arena2.png">
+</a>
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Arena3.gif" data-lightbox="GB" data-title="GB">
+  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Arena3.gif">
 </a>
 
 <h4>Hight ground</h4>
@@ -64,6 +67,9 @@ The hight ground is positioned so that you can see from both sides. The height g
 <a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/HG2.png" data-lightbox="HG" data-title="HG">
   <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/HG2.png">
 </a>
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/HG.gif" data-lightbox="GB" data-title="GB">
+  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/HG.gif">
+</a>
 
 <h4>Cellar</h4>
 
@@ -74,6 +80,12 @@ The basement is the most closed room, it gives a little respite from the open sp
 </a>
 <a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Cellar2.png" data-lightbox="HG" data-title="HG">
   <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Cellar2.png">
+</a>
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Bsm1.gif" data-lightbox="GB" data-title="GB">
+  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Bsm1.gif">
+</a>
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Bsm2.gif" data-lightbox="GB" data-title="GB">
+  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/gif/Bsm2.gif">
 </a>
 
 <h2>Visual design</h2>
