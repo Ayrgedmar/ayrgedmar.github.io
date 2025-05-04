@@ -15,6 +15,10 @@ The Scola Tower was chosen as the reference location. This castle, in my opinion
   <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Refs/Ref2.jpg">
 </a>
 
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Refs/Arena 3.gif" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Refs/Arena 3.gif">
+</a>
+
 <h2>Gray Box</h2>
 
 For the base location were used meshi with markings, which are initially stored in assetas. Each wall and floor were measured using these auxiliary meshes to preserve the metrics on the map.
