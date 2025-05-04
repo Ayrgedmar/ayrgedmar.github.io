@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Scola Tower"
-date:   2020
-author: ---
+date:   
+author: 2020
 categories: Mods
 cover:  "/assets/Portfolio/Mods/UT_The_Scola_Tower/Screenshot_18.png"
 ---
