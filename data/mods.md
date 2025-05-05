@@ -20,3 +20,10 @@
 
 [Brutalism](../data/showcase/UT_Brutalism)
 
+
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" data-lightbox="roadtrip">Image #2</a>
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Arena2.png" data-lightbox="roadtrip">Image #3</a>
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Cellar1.png" data-lightbox="roadtrip">Image #1</a>
+
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" data-lightbox="image-1" data-title="My caption">Image #1</a>
+

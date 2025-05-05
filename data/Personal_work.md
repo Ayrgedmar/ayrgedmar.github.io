@@ -2,7 +2,7 @@
 
 <h4>Coursework for Cyberpunk 2077</h4>
 
-</h2> <a href="../data/showcase/CGMA_Gig">CP2077 Gig:New Attendant</a> </h2>
+<h2> <a href="../data/showcase/CGMA_Gig">CP2077 Gig:New Attendant</a> </h2>
 
 <a href="../data/showcase/CGMA_Gig">CP2077 Gig:New Attendant</a>
 
