@@ -11,9 +11,9 @@
 <a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" data-lightbox="refs" data-title="Refs">
 </a>
 
-<a href="../data/showcase/UT_The_Scola_Tower">
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" data-lightbox="refs" data-title="Refs">
-</a></a>
+<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower">
+  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" alt="Scola Tower Preview" style="max-width: 100%; height: auto;">
+</a>
 
 
 [Concrete Land](../data/showcase/UT_Concrete_Land)
@@ -21,7 +21,7 @@
 [Brutalism](../data/showcase/UT_Brutalism)
 
 
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" data-lightbox="roadtrip">Image #2</a>
+<a href="../data/showcase/UT_The_Scola_Tower" data-lightbox="roadtrip"> "/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" </a>
 <a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Arena2.png" data-lightbox="roadtrip">Image #3</a>
 <a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Cellar1.png" data-lightbox="roadtrip">Image #1</a>
 
