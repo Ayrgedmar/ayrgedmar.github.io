@@ -8,9 +8,11 @@ Download and play:
 [TESALL](https://tesall.club/files/modi-dlya-skyrim/lokatsii/11326-poselenie-anderstoun)
 
 <h2>Goals</h2>
-Create linked, full-featured locations
 
-Learn the engine
+<ul>
+<li>Create linked, full-featured locations</li>
+<li>Learn the engine</li>
+</ul>
 
 <h2>Reference</h2>
 ​
@@ -32,11 +34,11 @@ That’s what I did in each of the three locations.
 
 I made a molecular plan of the gameplay of the whole location, which was followed by the decision to divide the whole map into three sections:
 
-Settlement itself
-
-Labyrinth
-
-Gorge
+<ul>
+<li>Settlement itself</li>
+<li>Labyrinth</li>
+<li>Gorge</li>
+</ul>
 
 ​Next I collected the location, starting from the entrance. When I started the main part, I positioned Landmark to see the composition and feel the size of the location.
 
@@ -53,11 +55,11 @@ At home, I put it on more than one plane to create the dynamics of the compositi
 
 On locations I focused three important points:
 
-Waterfall - the main landmark
-
-The Main House - a plot important element
-
-An Enclosed Entrance to the Gorge is a plot hook that would force the player to try to scout the location
+<ul>
+<li>Waterfall - the main landmark</li>
+<li>The Main House - a plot important element</li>
+<li>An Enclosed Entrance to the Gorge is a plot hook that would force the player to try to scout the location</li>
+</ul>
 
 <a href="/assets/Portfolio/Mods/TES_V/Screenshot_1.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Mods/TES_V/Screenshot_1.png">
@@ -108,11 +110,11 @@ In the game "Alice in the Land of Nightmares" in the maze you could navigate by 
 <a href="/assets/Portfolio/Mods/TES_V/Lab.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Mods/TES_V/Lab.png">
 </a>
-<a href="/assets/Portfolio/Mods/TES_V/Lab_entr.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/TES_V/Lab_entr.png">
+<a href="/assets/Portfolio/Mods/TES_V/Lab_entr.bmp" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Lab_entr.bmp">
 </a>
-<a href="/assets/Portfolio/Mods/TES_V/Up.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/TES_V/Up.png">
+<a href="/assets/Portfolio/Mods/TES_V/Up.bmp" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Up.bmp">
 </a>
 
 
@@ -138,28 +140,29 @@ The entrance and exit I planned where in the world there are waterfalls. This sh
 Both are located in a rock that looks organic. 
 
  
-Exit is not marked with a marker and you cannot enter without a key - the player will not be able to start from the last location. I made it look like a panoramic view of Skyrome.
+Exit is not marked with a marker and you cannot enter without a key - the player will not be able to start from the last location. I made it look like a panoramic view of Skyrim.
 
+<a href="/assets/Portfolio/Mods/TES_V/ScreenShot72.bmp" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/ScreenShot72.bmp">
+</a>
 <a href="/assets/Portfolio/Mods/TES_V/ScreenShot59.bmp" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Mods/TES_V/ScreenShot59.bmp">
 </a>
-<a href="/assets/Portfolio/Mods/TES_V/ScreenShot69.bmp" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/TES_V/ScreenShot69.bmp">
+<a href="/assets/Portfolio/Mods/TES_V/ScreenShot63.bmp" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/ScreenShot63.bmp">
 </a>
 
 <h2>Enemies</h2>
-
+ 
 I’ve positioned my enemies based on this schedule of complexity.
+<ul>
+<li>In the beginning for the priming I have positioned enemies who are killed with one blow.</li>
+<li>In the Labyrinth, there are five medium enemies and at the end there is the Boss.</li>
+<li>In the Gorge, I put one Boss in a lighter position, because the most stressful part I wanted to do was in the Labyrinth. Then the Gorge will be especially pleasant for the player.</li>
+</ul>
 
-
-In the beginning for the priming I have positioned enemies who are killed with one blow.
-
-In the Labyrinth, there are five medium enemies and at the end there is the Boss.
-
-In the Gorge, I put one Boss in a lighter position, because the most stressful part I wanted to do was in the Labyrinth. Then the Gorge will be especially pleasant for the player.
-
-<a href="/assets/Portfolio/Mods/TES_V/To_entr.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/TES_V/To_entr.png">
+<a href="/assets/Portfolio/Mods/TES_V/ScreenShot42.bmp" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/ScreenShot42.bmp">
 </a>
 
 <h2>Optimizing</h2>
@@ -177,8 +180,8 @@ The mod was successfully launched on a weak laptop and on medium settings.
 <a href="/assets/Portfolio/Mods/TES_V/Light2.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Mods/TES_V/Light2.png">
 </a>
-<a href="/assets/Portfolio/Mods/TES_V/Light1.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/TES_V/Light1.png">
+<a href="/assets/Portfolio/Mods/TES_V/Opt2.png.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Opt2.png.png">
 </a>
 
 

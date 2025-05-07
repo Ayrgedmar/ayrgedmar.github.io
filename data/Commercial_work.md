@@ -10,17 +10,17 @@
 
 <h2>War After</h2>
 
-[Suburb](../data/showcase/WA_Suburb)
-
+<div style="text-align: center;">
 <h3><a href="../data/showcase/WA_Suburb">Suburb</a></h3>
+</div>
 
 <a href="../data/showcase/WA_Suburb">
   <img src="/assets/Portfolio/Commercial_work/WA_Suburb/mainsc/2.png" alt="Suburb" style="max-width: 100%; height: auto;">
 </a>
 
-[Altitude](../data/showcase/WA_Altitude)
-
+<div style="text-align: center;">
 <h3><a href="../data/showcase/WA_Altitude">Altitude</a></h3>
+</div>
 
 <a href="../data/showcase/WA_Altitude">
   <img src="/assets/Portfolio/Commercial_work/WA_Altitude/SS.png" alt="Altitude" style="max-width: 100%; height: auto;">
