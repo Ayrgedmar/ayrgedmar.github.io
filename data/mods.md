@@ -2,28 +2,31 @@
 
 <h2>The Elder Scrolls V: Skyrim </h2>
 
-[TES V Understone](../data/showcase/TES_V)
+<h3><a href="../data/showcase/TES_V">TES V Understone</a></h3>
+
+<a href="../data/showcase/TES_V">
+  <img src="/assets/Portfolio/Mods/TES_V_txt.png" alt="Understone" style="max-width: 100%; height: auto;">
+</a>
 
 <h2>Unreal Tounament 3</h2>
 
-<a href="../data/showcase/UT_The_Scola_Tower">The Scola Tower</a>
+<h3><a href="../data/showcase/UT_The_Scola_Tower">The Scola Tower</a></h3>
 
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" data-lightbox="refs" data-title="Refs">
-</a>
-
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower">
-  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" alt="Scola Tower Preview" style="max-width: 100%; height: auto;">
+<a href="../data/showcase/UT_The_Scola_Tower">
+  <img src="/assets/Portfolio/Mods/The_Scola_Tower_txt.png" alt="Scola Tower Preview" style="max-width: 100%; height: auto;">
 </a>
 
 
-[Concrete Land](../data/showcase/UT_Concrete_Land)
+<h3><a href="../data/showcase/UT_Concrete_Land">Concrete Land</a></h3>
 
-[Brutalism](../data/showcase/UT_Brutalism)
+<a href="../data/showcase/UT_Concrete_Land">
+  <img src="/assets/Portfolio/Mods/Screenshot_txt.png" alt="Concrete Land" style="max-width: 100%; height: auto;">
+</a>
 
+<h3><a href="../data/showcase/UT_Brutalism">Brutalism</a></h3>
 
-<a href="../data/showcase/UT_The_Scola_Tower" data-lightbox="roadtrip"> "/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" </a>
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Arena2.png" data-lightbox="roadtrip">Image #3</a>
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Cellar1.png" data-lightbox="roadtrip">Image #1</a>
+<a href="../data/showcase/UT_Brutalism">
+  <img src="/assets/Portfolio/Mods/Brutalism_txt.png" alt="Brutalism" style="max-width: 100%; height: auto;">
+</a>
 
-<a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/Main.png" data-lightbox="image-1" data-title="My caption">Image #1</a>
 
