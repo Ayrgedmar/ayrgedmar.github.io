@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "TES V Understone"
-date:   2020
-author: Tolstikhina Iana
-categories: Mods
+author: 2020
+cover:  "/assets/Portfolio/Mods/TES_V/Screenshot_2-min.jpg"
 ---
 
 Download and play:
@@ -22,15 +20,13 @@ It was inspired by the location from Fable III DLC "Understone Quest Pack" - Sub
 ​
 Since the engine does not provide the basic types of meshes, I used the pieces of the location and arranged them so that they create the approximate desired geometry.
 
-​
-
 After the basic geometry was done, I began to stitch the mesh.
-
-​
 
 That’s what I did in each of the three locations.
 
--------------
+<a href="/assets/Portfolio/Mods/TES_V/ScreenShot7.bmp" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/ScreenShot7.bmp">
+</a>
 
 <h3>location</h3>
 
@@ -42,19 +38,18 @@ Labyrinth
 
 Gorge
 
----------------
-
 ​Next I collected the location, starting from the entrance. When I started the main part, I positioned Landmark to see the composition and feel the size of the location.
 
  
-
 I also calculated the height at which the player was able to break. It was necessary for the player to not be able to walk on the bottom - this was not part of my plans, as it significantly expanded the playing space, which is not really necessary in the given conditions. 
 
 ​
-
 At home, I put it on more than one plane to create the dynamics of the composition.
 
-----------------------------------------
+<a href="/assets/Portfolio/Mods/TES_V/Copmose.bmp" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Copmose.bmp">
+</a>
+
 
 On locations I focused three important points:
 
@@ -62,22 +57,29 @@ Waterfall - the main landmark
 
 The Main House - a plot important element
 
------------------
-
 An Enclosed Entrance to the Gorge is a plot hook that would force the player to try to scout the location
 
-----------------------------
+<a href="/assets/Portfolio/Mods/TES_V/Screenshot_1.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Screenshot_1.png">
+</a>
+<a href="/assets/Portfolio/Mods/TES_V/Door.bmp" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Door.bmp">
+</a>
 
 
 I’ve arranged several "secret" locations to reward the player for his research and liven up the area.
 
 That’s why I put supplies and a vegetable garden next to the house.
 
--------------
+<a href="/assets/Portfolio/Mods/TES_V/Secret_spot.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Secret_spot.png">
+</a>
 
 I placed the sound so that the source was somewhere around the waterfall, not spread everywhere.
 
----------
+<a href="/assets/Portfolio/Mods/TES_V/Sound.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Sound.png">
+</a>
 
 <h3>Houses</h3>
 
@@ -87,7 +89,12 @@ After that, I removed all the contents and began to build houses based on the pr
 
 Set up the lights, and so on in every house.
 
------------------
+<a href="/assets/Portfolio/Mods/TES_V/Home1.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Home1.png">
+</a>
+<a href="/assets/Portfolio/Mods/TES_V/Home2.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Home2.png">
+</a>
 
 <h3>Labyrinth</h3>
 
@@ -98,7 +105,15 @@ So that the player does not get confused I raised the level of the ground severa
 
 In the game "Alice in the Land of Nightmares" in the maze you could navigate by enemies - if you come across an enemy, then this road is new. And I did the same thing here - I put my enemies closer to the exit, the closer, the bigger the pile.
 
---------------------
+<a href="/assets/Portfolio/Mods/TES_V/Lab.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Lab.png">
+</a>
+<a href="/assets/Portfolio/Mods/TES_V/Lab_entr.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Lab_entr.png">
+</a>
+<a href="/assets/Portfolio/Mods/TES_V/Up.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Up.png">
+</a>
 
 
 <h3>Gorge</h3>
@@ -109,7 +124,12 @@ This is where I put the entrance to the settlement, that door, near the waterfal
 
 I arranged the bridge so that the player could immediately notice it and realize that it could be jumped and passed.
 
-----------------
+<a href="/assets/Portfolio/Mods/TES_V/ScreenShot54.bmp" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/ScreenShot54.bmp">
+</a>
+<a href="/assets/Portfolio/Mods/TES_V/To_entr.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/To_entr.png">
+</a>
 
 <h3>Entry and exit</h3>
 
@@ -118,20 +138,19 @@ The entrance and exit I planned where in the world there are waterfalls. This sh
 Both are located in a rock that looks organic. 
 
  
-
 Exit is not marked with a marker and you cannot enter without a key - the player will not be able to start from the last location. I made it look like a panoramic view of Skyrome.
 
+<a href="/assets/Portfolio/Mods/TES_V/ScreenShot59.bmp" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/ScreenShot59.bmp">
+</a>
+<a href="/assets/Portfolio/Mods/TES_V/ScreenShot69.bmp" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/ScreenShot69.bmp">
+</a>
 
---------------------
-
-
-<h2>Enemies</h2s>
+<h2>Enemies</h2>
 
 I’ve positioned my enemies based on this schedule of complexity.
 
-​
-
- 
 
 In the beginning for the priming I have positioned enemies who are killed with one blow.
 
@@ -139,7 +158,9 @@ In the Labyrinth, there are five medium enemies and at the end there is the Boss
 
 In the Gorge, I put one Boss in a lighter position, because the most stressful part I wanted to do was in the Labyrinth. Then the Gorge will be especially pleasant for the player.
 
----------------------
+<a href="/assets/Portfolio/Mods/TES_V/To_entr.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/To_entr.png">
+</a>
 
 <h2>Optimizing</h2>
 
@@ -147,11 +168,17 @@ To optimize, I have broken down all the locations to load only what the player s
 
 In the area of lighting we managed to achieve good optimization in almost all locations. Somewhere the red zones had to be left, but this should not affect the overall performance. 
 
-​
 
-The game was successfully launched on a weak laptop and on medium settings.
+The mod was successfully launched on a weak laptop and on medium settings.
 
---------------
--------------
+<a href="/assets/Portfolio/Mods/TES_V/Opt.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Opt.png">
+</a>
+<a href="/assets/Portfolio/Mods/TES_V/Light2.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Light2.png">
+</a>
+<a href="/assets/Portfolio/Mods/TES_V/Light1.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Light1.png">
+</a>
 
 
