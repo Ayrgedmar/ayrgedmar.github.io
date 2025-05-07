@@ -1,6 +1,8 @@
 <h2>Farcana</h2>
 
+<div style="text-align: center;">
 <h3><a href="https://www.farcana.com/">Farcana</a></h3>
+</div>
 
 <a href="https://www.farcana.com/">
   <img src="/assets/Portfolio/Commercial_work/LINKEDIN_COVER.jpg" alt="Farcana" style="max-width: 100%; height: auto;">
