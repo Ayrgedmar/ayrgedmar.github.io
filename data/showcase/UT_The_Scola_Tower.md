@@ -7,7 +7,7 @@ categories: Mods
 cover:  "/assets/Portfolio/Mods/The_Scola_Tower.png"
 ---
 
-References
+<h2>References</h2>
 
 The Scola Tower was chosen as the reference location. This castle, in my opinion, was ideal in terms of the dynamics of transitions between the sections. This will force the player to move constantly, changing his location to look behind each corner, creating a movement dynamic.
 
