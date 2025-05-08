@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dummy Post"
-date:   2015-04-18T14:25:52-05:00
-author: Ben Centra
-categories: Dummy
+title:  "Open World"
+date:   2023
+
+cover:  "/assets/Portfolio/Personal_works/CGMA_World/Screenshot_325.png"
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
