@@ -4,6 +4,7 @@ title:  "CP2077 Gig:New Attendant"
 date:   2023
 author: ---
 categories: Personal works
+cover:  "/assets/Portfolio/Mods/The_Scola_Tower.png"
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
