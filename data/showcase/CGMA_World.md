@@ -6,11 +6,8 @@ date:   2023
 cover:  "/assets/Portfolio/Personal_works/CGMA_World/Screenshot_325.png"
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
+Этот уровень был сделан в рамках курса CGMA под менторством Макса Пирса.
+Общий текст
+Этот уровень нас попросили сделать для пресетов курса.
+Мне было просто приятно выполнять что-то подобное. Я сделал тематические острова и там разместил сундуки. Задача - собрать все и дойти до Замка. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
