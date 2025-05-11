@@ -120,6 +120,11 @@ How the problem was solved:
 
 <a href="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/3.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/3.png">
+  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/Screenshot_9.png">
+  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/Screenshot_10.png">
+  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Screenshot_5.png">
+  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/Screenshot_1.png">
+   <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Screenshot_3.png">
 </a>
 
 
