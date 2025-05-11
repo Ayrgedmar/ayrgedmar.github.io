@@ -4,7 +4,7 @@ title:  "CP2077 Gig:New Attendant"
 date:   2023
 author: ---
 categories: Personal works
-cover:  "/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png"
+cover:  "/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15.png"
 ---
 
 This level was created as part of the CGMA course under the mentorship of Max Pears.

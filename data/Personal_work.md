@@ -1,27 +1,27 @@
 <h2>CGMA by Max Pears </h2>
 
-<h4>Coursework for Cyberpunk 2077</h4>
+<h3>Coursework</h3>
 
 <div style="text-align: center;">
-<h2> <a href="../data/showcase/CGMA_Gig">CGMA_CP2077 Gig:New Attendant</a> </h2>
+<h3> <a href="../data/showcase/CGMA_Gig">CGMA CP2077 Gig:New Attendant</a> </h3>
 </div>
 
 <a href="../data/showcase/CGMA_Gig">
-  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/mainsc/2.png" alt="Suburb" style="max-width: 100%; height: auto;">
+  <img src="/assets/Portfolio/Personal_work/CGMA_Gig/Screenshot_325.png" alt="Suburb" style="max-width: 100%; height: auto;">
 </a>
 
-<h4>Other</h4>
+<h3>Other</h3>
 
 <div style="text-align: center;">
-<h2> <a href="../data/showcase/CGMA_Station">CGMA_Sci-Fi Station</a> </h2>
+<h3> <a href="../data/showcase/CGMA_Station">CGMA_Sci-Fi Station</a> </h3>
 </div>
 <a href="../data/showcase/CGMA_Station">
-  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/mainsc/2.png" alt="Suburb" style="max-width: 100%; height: auto;">
+  <img src="/assets/Portfolio/Personal_work/CGMA_Station/2.png" alt="Suburb" style="max-width: 100%; height: auto;">
 </a>
 
 <div style="text-align: center;">
-<h2> <a href="../data/showcase/CGMA_World">CGMA_Open World case</a> </h2>
+<h3> <a href="../data/showcase/CGMA_World">CGMA_Open World case</a> </h3>
 </div>
 <a href="../data/showcase/CGMA_World">
-  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/mainsc/2.png" alt="Suburb" style="max-width: 100%; height: auto;">
+  <img src="/assets/Portfolio/Personal_work/CGMA_World/Screenshot_22.png" alt="Suburb" style="max-width: 100%; height: auto;">
 </a>
