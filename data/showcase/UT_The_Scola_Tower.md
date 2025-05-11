@@ -4,7 +4,7 @@ title:  "The Scola Tower"
 date:   
 author: 2020
 categories: Mods
-cover:  "/assets/Portfolio/Mods/The_Scola_Tower.png"
+cover:  "/assets/Portfolio/Mods/Screenshot_18.png"
 ---
 
 <h2>References</h2>
