@@ -7,6 +7,8 @@ categories: Commercial work
 cover:  "/assets/Portfolio/Commercial_work/WA_Suburb/mainsc/2.png"
 ---
 
+<iframe width="840" height="472" src="https://www.youtube.com/embed/-h1tPo6kaQ0?si=_wYoN5cTP76uo4PT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h2>Map objective</h2>
 
 Maps were designed mainly for sniper positions, with players who like to play mid- and close-range combat.
@@ -119,10 +121,8 @@ How the problem was solved:
 -In the future, insist on a minimalist map art (increase readability without cutting art) 
 
 <a href="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/3.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/3.png">
   <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/Screenshot_9.png">
   <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/Screenshot_10.png">
-  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Screenshot_5.png">
   <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/Screenshot_1.png">
    <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Screenshot_3.png">
 </a>
