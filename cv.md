@@ -32,7 +32,7 @@ qwoterlow@gmail.com
 <h4>Lead Level designer</h4>
 Oct 2024 - Apr 2025
 
-Как лид, участвовал в найме сотрудника. В подчинении были джун и мидл дизайнеры. Участвовал в создании пайплайна разработки карт для компании. Управлял сотрудниками и планировал работу. Решал организационные и технические задачи не только внутри ЛД отдела, но и работу совместно с ГД, ЛА, Нарративом, Саунд Дизайном и Программистами. Писал требования к уровням и документацию для отдела.
+As a Lead Level Designer, I participated in the hiring process and managed both junior and mid-level designers. I was involved in developing the company’s map production pipeline, overseeing team members and planning their tasks. I handled both organizational and technical challenges—not only within the Level Design department but also in collaboration with Game Design, Lighting/Art, Narrative, Sound Design, and Programming teams. I wrote level design requirements and created internal documentation for the department.
 
 <ul> 
 <li>Planning</li>
@@ -42,11 +42,10 @@ Oct 2024 - Apr 2025
 <h4>Level designer</h4>
 Dec 2023 - Oct 2024
 
-Участие в создании PC моба шутера.
-Вместе с командой разрабатывали дизайн карт, опираясь на существующие проекты Overwatch 2, Team
-Fortress 2, Paladins.
+Worked on a PC MOBA shooter project.
+Together with the team, we developed map designs inspired by titles such as Overwatch 2, Team Fortress 2, and Paladins.
 
-Разработал 4 карты от схемы до вайтбокса для разных гейммодов.
+I designed 4 maps from layout concepts to whiteboxing, across different game modes.
 
 <ul> 
 <li>Level Design Documentation for Artists</li>
