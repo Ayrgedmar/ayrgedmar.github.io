@@ -38,14 +38,14 @@ Closer to the middle, narrower passageways for melee were designed. In the cente
 
 After a series of playtests the map became smaller, the capture points moved closer to the center.
 
-<a href="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/GB.jpg" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/GB.jpg">
+<a href="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/GB.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/GB.png">
 </a>
 
 After playtests and work iterations, snipers' heights, middle battles, and houses served as close encounters, shelters, and spawning.
 
-<a href="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/GB2.jpg" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/GB2.jpg">
+<a href="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/GB2.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/GB2.png">
 </a>
 
 <h2>Final geometry with artwork</h2>
