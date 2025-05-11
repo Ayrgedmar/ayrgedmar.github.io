@@ -2,7 +2,7 @@
 layout: post
 title:  "TES V Understone"
 author: 2020
-cover:  "/assets/Portfolio/Mods/TES_V/Screenshot_2-min.jpg"
+cover:  "/assets/Portfolio/Mods/TES_V/ScreenShot72.bmp"
 ---
 
 Download and play:
