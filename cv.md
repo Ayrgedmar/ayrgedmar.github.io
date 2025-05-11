@@ -8,6 +8,8 @@ main_nav: true
 
 <h1 id="headings">Tolstikhina Iana - Level Designer</h1>
 
+[Download CV in pdf](https://www.linkedin.com/in/ayrgedmar/)
+
 qwoterlow@gmail.com
 
 

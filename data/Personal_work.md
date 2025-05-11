@@ -7,7 +7,7 @@
 </div>
 
 <a href="../data/showcase/CGMA_Gig">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png" alt="CGMA_Gig" style="max-width: 100%; height: auto;">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_335.png" alt="CGMA_Gig" style="max-width: 100%; height: auto;">
 </a>
 
 <h3>Other</h3>
