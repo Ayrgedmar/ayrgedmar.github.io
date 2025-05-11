@@ -6,45 +6,61 @@ author: Ben Centra
 cover:  "/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_325.png"
 ---
 
-Этот уровень был сделан в рамках курса CGMA под менторством Макса Пирса.
-Общий текст
+This level was created as part of the CGMA course under the mentorship of Max Pears.
 
-Этот уровень был сделан по тематике “Станция на Планете”. В рамках курса нас попросили создать небольшой нарратив и начать с общего описания Открытой локации и создать первичный блокин экстерьера. Далее нас попросили создать интерьер станции с геймплейными элементами. 
+General Description
+This level was built around the theme “Station on a Planet.” As part of the course, we were asked to develop a small narrative, starting with a general description of an open-world location and to create an initial exterior blockout. We were then tasked with designing the station’s interior, incorporating gameplay elements.
 
-Из-за того, что сначала была создана общая форма, а потом интерьер и геймплей (а не наоборот) это усложнило задачу.
+Since the general structure was created first and the interior and gameplay were added later (instead of the other way around), this made the task more challenging.
 
-Общее описание локации
+Location Overview
+The level is set at a Water Purification Station on a colonized planet.
+The main reference was a map from Mass Effect.
 
-Это Водоочистительная станция на обжываемой планете. 
-Рефенс был выбран из Масс Эффекта - карта .
+Mission:
+Investigate why the station has stopped responding to communications.
 
-Миссия:
-Мы должны разобраться почему станция перестала отвечать на вызовы. 
+Additional assignment requirement:
+From this location, the player should be able to see four other landmarks in the open world.
 
-Дополнительное требование от задания:
-С локации мы видим ещё 4 лендмарки нашего “Открытого мира”
+The building consists of four floors.
 
-Здание состоит из 4-х этажей.
+First Floor – Introduction
 
+Introduces interaction with objects
 
-Первый
-Ознакомительный
-мы даём взаимодействие с предметами и показываем врага
+First encounter with an enemy
 
-Второй
-Присутствуют несложные враги и первая загадка
+Second Floor – First Challenge
 
-Третий
-Больше врагов, можно увидеть босса на нижнем этаже и подготовиться к бою. 
-Встретить живых NPC и поговорить с ними.
+Light enemy presence
 
-Подготовка:
-Игрок может выбрать - дойти через бой прямо к боссу и выиграть читый бой. Или исследовать станцию и активировать триггеры, которые босса ослабляют.
+First puzzle element
 
-Четвёртый
-Несколько врагов у последней точки подготовки. Финальный Босс.
+Third Floor – Escalation
 
-Финальный босс:
-Артена с хайграундами, несолькими каверами. есть возможность прокрасться на более безопасную высоту. Сам хайгрануд недоступен, но может разрушаться противником.
+More enemies
+
+The player can see the boss on the lower floor and begin to prepare for the encounter
+
+Live NPCs can be found and interacted with
+
+Preparation Option:
+The player can either:
+
+Fight directly through to the boss in a straightforward combat challenge
+
+Explore the station and activate triggers that weaken the boss
+
+Fourth Floor – Final Challenge
+
+A few enemies at the last preparation checkpoint
+
+Final Boss fight
+
+Final Boss:
+The boss is placed on high ground with multiple cover spots.
+There is an option to sneak to a safer elevated area.
+The high ground itself is inaccessible but destructible by the boss.
 
 

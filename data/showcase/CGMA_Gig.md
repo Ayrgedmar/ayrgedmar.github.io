@@ -16,13 +16,14 @@ This level was created as part of the CGMA course under the mentorship of Max Pe
 
 <h2>Preparation</h2>
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png">
-</a>
 
 This level was created as part of the CGMA course under the mentorship of Max Pears.
 
 For the final project of the course, I decided to create a Gig for Cyberpunk 2077. The reference Gigs were "Gig: On a Tight Leash" and "Gig: Dirty Biz." Key building shapes and the general story/progression path were taken from them.
+
+<body style="margin: 0;">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_335.png" alt="Full Width" style="width: 100%; height: auto; display: block;">
+</body>
 
 The level was designed to be completed in three different ways:
 
@@ -32,38 +33,42 @@ Stealth
 
 Netrunne
 
+<body style="margin: 0;">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/1.png" alt="Full Width" style="width: 100%; height: auto; display: block;">
+</body>
+
 
 <h3>Combat</h3>
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png">
-</a>
+<body style="margin: 0;">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/ScreeScreenshot_16nshot_14.png" alt="Full Width" style="width: 100%; height: auto; display: block;">
+</body>
 
 The battle is a massive fight with a bunch of enemies, mostly in open terrain; only a few will remain in the house. Additionally, V can use a turret to epicly neutralize them with this big gun.
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png">
-</a>
+<body style="margin: 0;">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_14.png" alt="Full Width" style="width: 100%; height: auto; display: block;">
+</body>
 
 <h3>Stealth</h3>
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png">
-</a>
+<body style="margin: 0;">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_19.png" alt="Full Width" style="width: 100%; height: auto; display: block;">
+</body>
 
 While traversing stealthily, the player needs to find a safe entrance to the area and choose several paths. During the passage, enemies encountered along the way need to be neutralized, and the player must reach the goal.
 
 <h3>Netrunner</h3>
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png">
-</a>
+<body style="margin: 0;">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15.png" alt="Full Width" style="width: 100%; height: auto; display: block;">
+</body>
 
 Beyond the gate, V can sneak into the guardhouses, use the computer to activate the turret in the main building, and deal with a couple of enemies in the line of sight. V can also take control of cameras and neutralize enemies with demons.
 
 After that, V can take one of the two suggested paths, where only a couple of enemies will remain.
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png">
-</a>
+<body style="margin: 0;">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_328.png" alt="Full Width" style="width: 100%; height: auto; display: block;">
+</body>
 
