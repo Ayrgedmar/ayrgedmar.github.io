@@ -4,7 +4,7 @@ title:  "Suburb"
 date:   2021
 author: 
 categories: Commercial work
-cover:  "/assets/Portfolio/WA_Suburb/mainsc/2.png"
+cover:  "/assets/Portfolio/Commercial_work/WA_Suburb/mainsc/2.png"
 ---
 
 <h2>Map objective</h2>
@@ -118,8 +118,8 @@ How the problem was solved:
 
 -In the future, insist on a minimalist map art (increase readability without cutting art) 
 
-<a href="/assets/Portfolio/Commercial_work/WA_Suburb/3.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/3.png">
+<a href="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/3.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/WA_Suburb/Artst/3.png">
 </a>
 
 
