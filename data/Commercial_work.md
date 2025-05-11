@@ -23,5 +23,5 @@
 </div>
 
 <a href="../data/showcase/WA_Altitude">
-  <img src="/assets/Portfolio/Commercial_work/WA_Altitude/SS.png" alt="Altitude" style="max-width: 100%; height: auto;">
+  <img src="/assets/Portfolio/Commercial_work/WA_Altitude/2.png" alt="Altitude" style="max-width: 100%; height: auto;">
 </a>

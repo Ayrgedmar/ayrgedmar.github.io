@@ -4,7 +4,7 @@ title:  "Altitude "
 date:   2021
 author: --
 categories: Commercial work
-cover:  "/assets/Portfolio/Commercial_work/WA_Altitude/Arts/Screenshot_99.png"
+cover:  "/assets/Portfolio/Commercial_work/WA_Altitude/Arts/Screenshot_11.png"
 ---
 
 <h2>Map objective</h2>
