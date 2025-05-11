@@ -6,7 +6,7 @@ main_nav: true
 ---
 
 <body style="margin: 0;">
-  <img src="/assets/Portfolio/Mods/Screenshot_18.png" alt="Full Width" style="width: 100%; height: auto; display: block;">
+  <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/Screenshot_18.png" alt="Full Width" style="width: 100%; height: auto; display: block;">
 </body>
 
 <h2> <a href="../data/Commercial_work">Commercial work</a> </h2>

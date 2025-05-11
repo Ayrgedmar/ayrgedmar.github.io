@@ -7,7 +7,7 @@ categories: Personal works
 cover:  "/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png"
 ---
 
-Этот уровень был сделан в рамках курса CGMA под менторством Макса Пирса.
+This level was created as part of the CGMA course under the mentorship of Max Pears.
 
 
 <div style="text-align: center;">
@@ -20,17 +20,20 @@ cover:  "/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png"
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png">
 </a>
 
-Для заключительной работы курса я решил сделать Gig для Cyber Punk 2077. The reference Gigs were "Gig: On a Tight Leash" and "Gig: Dirty Biz.". Из них были выбраны основные формы здания и общий сюжет/путь прохождения.
+This level was created as part of the CGMA course under the mentorship of Max Pears.
 
-Этот уровень создавался для прохождения тремя разными путями:
+For the final project of the course, I decided to create a Gig for Cyberpunk 2077. The reference Gigs were "Gig: On a Tight Leash" and "Gig: Dirty Biz." Key building shapes and the general story/progression path were taken from them.
 
-Бой
-Скрытный
-Нетраннер
+The level was designed to be completed in three different ways:
+
+Combat
+
+Stealth
+
+Netrunne
 
 
-
-<h3>Бой</h3>
+<h3>Combat</h3>
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png">
@@ -42,7 +45,7 @@ The battle is a massive fight with a bunch of enemies, mostly in open terrain; o
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png">
 </a>
 
-<h3>Скрытный</h3>
+<h3>Stealth</h3>
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png">
@@ -50,7 +53,7 @@ The battle is a massive fight with a bunch of enemies, mostly in open terrain; o
 
 While traversing stealthily, the player needs to find a safe entrance to the area and choose several paths. During the passage, enemies encountered along the way need to be neutralized, and the player must reach the goal.
 
-<h3>Нетраннер</h3>
+<h3>Netrunner</h3>
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_325.png">
