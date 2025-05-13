@@ -7,7 +7,7 @@ categories: Commercial work
 cover:  "/assets/Portfolio/Commercial_work/WA_Suburb/mainsc/2.png"
 ---
 
-<iframe width="840" height="472" src="https://www.youtube.com/embed/-h1tPo6kaQ0?si=_wYoN5cTP76uo4PT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="740" height="415" src="https://www.youtube.com/embed/-h1tPo6kaQ0?si=_wYoN5cTP76uo4PT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>Map objective</h2>
 
