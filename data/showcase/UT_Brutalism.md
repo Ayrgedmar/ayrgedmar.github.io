@@ -11,8 +11,8 @@ cover:  "/assets/Portfolio/Mods/UT_Brutalism/Main1.png"
 
 Brutalism was chosen as the map style. These are concrete, massive minimalist buildings.  Some details were chosen for inspiration, which I partially implemented on the map.
 
-<a href="/assets/Portfolio/Mods/UT_Brutalism/Gray_Box/Screenshot_3.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/UT_Brutalism/Gray_Box/Screenshot_3.png">
+<a href="/assets/Portfolio/Mods/UT_Brutalism/Screenshot_3.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/UT_Brutalism/Screenshot_3.png">
 </a>
 
 <h2>Gray Box</h2>
@@ -23,11 +23,11 @@ To begin with, I built several floors in a chaotic order and created simple tran
 
 In the end, I achieved some general level shape and style concepts that matched my vision. I tried to improve navigation on the level by adding through spaces and curved shapes.
 
-<a href="/assets/Portfolio/Mods/UT_Brutalism/GB_3.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/UT_Brutalism/GB_3.png">
+<a href="/assets/Portfolio/Mods/UT_Brutalism/Gray_Box/GB_3.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/UT_Brutalism/Gray_Box/GB_3.png">
 </a>
-<a href="/assets/Portfolio/Mods/UT_Brutalism/GB_4.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/UT_Brutalism/GB_4.png">
+<a href="/assets/Portfolio/Mods/UT_Brutalism/Gray_Box/GB_4.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/UT_Brutalism/Gray_Box/GB_4.png">
 </a>
 
 
@@ -35,9 +35,6 @@ In the end, I achieved some general level shape and style concepts that matched 
 
 Some types of weapons, cartridges were selected and placed on the map so as not to interrupt the flow states and to force the player to move on the map, creating fights between the players.
 
-<a href="/assets/Portfolio/Mods/UT_Brutalism/Screenshot_2.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/UT_Brutalism/Screenshot_2.png">
-</a>
 <a href="/assets/Portfolio/Mods/UT_Brutalism/Screenshot_2.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Mods/UT_Brutalism/Screenshot_2.png">
 </a>
