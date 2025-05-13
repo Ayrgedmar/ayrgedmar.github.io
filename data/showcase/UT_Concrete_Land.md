@@ -37,8 +37,8 @@ The fastest, but passes in open terrain. If the sniper stands, it will be diffic
 <a href="/assets/Portfolio/Mods/UT_Concrete_Land/Screenshot_13.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Mods/UT_Concrete_Land/Screenshot_13.png">
 </a>
-<a href="/assets/Portfolio/Mods/UT_Concrete_Land/Gray_Box/gifs/Way 1.gif" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/UT_Concrete_Land/Gray_Box/gifs/Way 1.gif">
+<a href="/assets/Portfolio/Mods/UT_Concrete_Land/gifs/Way 1.gif" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/UT_Concrete_Land/gifs/Way 1.gif">
 </a>
 
 <h4>Second way</h4>
@@ -48,14 +48,14 @@ Safer. I’ve set the corners so that the view of the running player is permanen
 <a href="/assets/Portfolio/Mods/UT_Concrete_Land/Screenshot_15.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Mods/UT_Concrete_Land/Screenshot_15.png">
 </a>
-<a href="/assets/Portfolio/Mods/UT_Concrete_Land/Gray_Box/gifs/Closed door.gif" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/UT_Concrete_Land/Gray_Box/gifs/Closed door.gif">
+<a href="/assets/Portfolio/Mods/UT_Concrete_Land/gifs/Closed door.gif" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/UT_Concrete_Land/gifs/Closed door.gif">
 </a>
 <a href="/assets/Portfolio/Mods/UT_Concrete_Land/Screenshot_19.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Mods/UT_Concrete_Land/Screenshot_19.png">
 </a>
-<a href="/assets/Portfolio/Mods/UT_Concrete_Land/Gray_Box/gifs/Way 2.gif" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/UT_Concrete_Land/Gray_Box/gifs/Way 2.gif">
+<a href="/assets/Portfolio/Mods/UT_Concrete_Land/gifs/Way 2.gif" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/UT_Concrete_Land/gifs/Way 2.gif">
 </a>
 
 <h4>Third way</h4>
@@ -78,8 +78,8 @@ The view here is completely free up to the entrance, but also the sniper is unpr
 <a href="/assets/Portfolio/Mods/UT_Concrete_Land/Screenshot_12.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Mods/UT_Concrete_Land/Screenshot_12.png">
 </a>
-<a href="/assets/Portfolio/Mods/UT_Concrete_Land/Gray_Box/gifs/Fall.gif" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/UT_Concrete_Land/Gray_Box/gifs/Fall.gif">
+<a href="/assets/Portfolio/Mods/UT_Concrete_Land/gifs/Fall.gif" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/UT_Concrete_Land/gifs/Fall.gif">
 </a>
 <a href="/assets/Portfolio/Mods/UT_Concrete_Land/Screenshot_32.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Mods/UT_Concrete_Land/Screenshot_32.png">
