@@ -8,7 +8,7 @@ main_nav: true
 
 <h1 id="headings">Tolstikhina Iana - Level Designer</h1>
 
-[Download CV in pdf](/assets/CV Tolstikhina Iana - Level Designer.pdf)
+[Download PDF](/assets/CV Tolstikhina Iana - Level Designer.pdf)
 
 qwoterlow@gmail.com
 
@@ -106,4 +106,4 @@ According to internal analytics my released map ranks the third place in players
 
 <hr>
 
-<img src="/assets/Screenshot_3.png" alt="skills" style="width: 100%; height: auto;">
+<img src="/assets/Screenshot_3.png" alt="skills" style="width: auto; height: auto;">
