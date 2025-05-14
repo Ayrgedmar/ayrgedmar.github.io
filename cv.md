@@ -8,7 +8,7 @@ main_nav: true
 
 <h1 id="headings">Tolstikhina Iana - Level Designer</h1>
 
-[Download CV in pdf](https://www.linkedin.com/in/ayrgedmar/)
+[Download CV in pdf](/assets/CV Tolstikhina Iana - Level Designer.pdf)
 
 qwoterlow@gmail.com
 
@@ -38,7 +38,9 @@ As a Lead Level Designer, I participated in the hiring process and managed both 
 
 <ul> 
 <li>Planning</li>
-<li>Managment</li>
+<li>Management</li>
+<li>Coordinated pipeline synchronization across departments</li>
+<li>Design workflow optimization through art-side features</li>
 </ul>
 
 <h4>Level designer</h4>
@@ -104,34 +106,4 @@ According to internal analytics my released map ranks the third place in players
 
 <hr>
 
-<table cellspacing="3" cellpadding="0">
-
- <tr>
-    <th>Tools</th><th>Skills</th>
-  </tr>
-  <tr>
-    <td>UE5</td><td>UE5</td>
-  </tr>
-  <tr class="even">
-    <td>Unity</td><td>Level design</td>
-  </tr>
-  <tr>
-    <<td>Maya</td><td>Game Documentation</td>
-  </tr>
-   <tr>
-    <<td>Miro</td><td>3D Modeling</td>
-  </tr>
-   <tr>
-    <<td></td><td>Managment</td>
-  </tr>
-   <tr>
-    <<td></td><td>Department planning</td>
-  </tr>
-   <tr>
-    <<td></td><td>Crossdepartmant sin</td>
-  </tr>
-   <tr>
-    <<td></td><td>Implimenting</td>
-  </tr>
-</table>
-</div>
+<img src="/assets/Screenshot_3.png" alt="skills" style="width: 100%; height: auto;">
