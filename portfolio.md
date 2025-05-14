@@ -16,21 +16,21 @@ main_nav: true
 
 <h3>Highlights</h3>
 
-<a href="../data/showcase/CGMA_Gig">CGMA CP2077 Gig:New Attendant</a>
+<h4><a href="../data/showcase/CGMA_Gig">CGMA CP2077 Gig:New Attendant</a></h4>
 
-Для курсовой работы я сделал локацию для CP2077
+For my course project, I created a location for Cyberpunk 2077
 
-<a href="../data/showcase/CGMA_Station">CGMA_Sci-Fi Station</a>
+<h4><a href="../data/showcase/CGMA_Station">CGMA_Sci-Fi Station</a></h4>
 
-Локация с механиками, небольшим квестом и нарративом, придуманная и собраная за две недели
+The location features gameplay mechanics, a small quest, and original narrative — all designed and assembled in two weeks
 
-<a href="../data/showcase/WA_Suburb">Suburb</a>
+<h4><a href="../data/showcase/WA_Suburb">Suburb</a></h4>
 
-Полноценная (первая) коммерческая работа от грейбокса до арта (моделинг, текстуринг, свет и тд)
+A full-scale (first) commercial-quality environment created from greybox to final art (modeling, texturing, lighting, etc.)
 
-<a href="../data/showcase/TES_V">TES V Understone</a>
+<h4><a href="../data/showcase/TES_V">TES V Understone</a></h4>
 
-Любимая творческая работа (сделана до начала карьеры)
+My favorite creative project, made before I began my professional career
 
 
 
