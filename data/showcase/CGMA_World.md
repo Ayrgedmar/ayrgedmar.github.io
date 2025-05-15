@@ -5,7 +5,10 @@ date:   2023
 
 cover:  "/assets/Portfolio/Personal_works/CGMA_World/Screenshot_149.png"
 ---
-[To the Personal work page](../data/Personal_work)
+
+<div style="text-align: right;">
+<h5><a href="/data/Personal_work">To the Personal work page</a></h5>
+</div>
 
 This level was created as part of the CGMA course under the mentorship of Max Pears.
 
@@ -27,27 +30,6 @@ Collect all the chests and make your way to the Castle.
 
 <a href="/assets/Portfolio/Personal_works/CGMA_World/3.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_World/3.png">
-</a>
-
-The islands are arranged in such a way that the player's gaze is drawn to focal points, leading upward—toward the main goal.
-
-<a href="/assets/Portfolio/Personal_works/CGMA_World/Path.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_World/Path.png">
-</a>
-<a href="/assets/Portfolio/Personal_works/CGMA_World/POI.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_World/POI.png">
-</a>
-
-VFX in the form of a "breeze" are placed throughout the map to guide the player toward objectives.
-
-<a href="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_5.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_5.png">
-</a>
-
-Each "zone" is enclosed by a collider. When the player crosses it (or a killZ), they are returned to the nearest portal. Since the player can fly indefinitely, this limits their movement.
-
-<a href="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_6.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_6.png">
 </a>
 
 Chest searching is simple, and the exploration of paths to other islands is indirect but still relaxed. Players can either take a quicker route or find all 8.
@@ -78,6 +60,32 @@ The final island is the lowest one. There, the player needs to make their way to
 <a href="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_144.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_144.png">
 </a>
+
+
+The islands are arranged in such a way that the player's gaze is drawn to focal points, leading upward—toward the main goal.
+
+<a href="/assets/Portfolio/Personal_works/CGMA_World/Path.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_World/Path.png">
+</a>
+<a href="/assets/Portfolio/Personal_works/CGMA_World/POI.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_World/POI.png">
+</a>
+
+VFX in the form of a "breeze" are placed throughout the map to guide the player toward objectives.
+
+<a href="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_5.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_5.png">
+</a>
+
+Each "zone" is enclosed by a collider. When the player crosses it (or a killZ), they are returned to the nearest portal. Since the player can fly indefinitely, this limits their movement.
+
+<a href="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_6.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_6.png">
+</a>
+
+<div style="text-align: right;">
+<h5><a href="/data/Personal_work">To the Personal work page</a></h5>
+</div>
 
 
 
