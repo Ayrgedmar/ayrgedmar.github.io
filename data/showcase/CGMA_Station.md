@@ -18,7 +18,9 @@ Since the general structure was created first and the interior and gameplay were
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png">
 </a>
 
-[PureRef](/assets/Sci-Fi.pur)
+<div style="text-align: center;">
+<h5><a href="/assets/Sci-Fi.pur">Download PureRef</a></h5>
+</div>
 
 <h2>Location Overview</h2>
 
