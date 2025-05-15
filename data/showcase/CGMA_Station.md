@@ -25,9 +25,6 @@ Since the general structure was created first and the interior and gameplay were
 The level is set at a Water Purification Station on a colonized planet.
 The main reference was a map from Mass Effect.
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png">
-</a>
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/1.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/1.png">
 </a>
@@ -66,7 +63,6 @@ Introduces interaction with objects. Показать, что есть враг�
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_34.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_34.png">
 </a>
-
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_36.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_36.png">
 </a>
