@@ -7,7 +7,7 @@ cover:  "/assets/Portfolio/Personal_works/CGMA_World/Screenshot_149.png"
 ---
 
 <div style="text-align: right;">
-<h5><a href="/data/Personal_work">To the Personal work page</a></h5>
+<h4><a href="/data/Personal_work">To the Personal work page</a></h4>
 </div>
 
 This level was created as part of the CGMA course under the mentorship of Max Pears.
@@ -21,7 +21,7 @@ I simply enjoyed working on something like this. I created themed islands and pl
   <img src="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_9.png">
 </a>
 
-<h2>Design</h2>
+<h2>Gameplay</h2>
 
 <ul> 
 <li>Objective:</li>
@@ -61,6 +61,7 @@ The final island is the lowest one. There, the player needs to make their way to
   <img src="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_144.png">
 </a>
 
+<h2>Design</h2>
 
 The islands are arranged in such a way that the player's gaze is drawn to focal points, leading upward—toward the main goal.
 
@@ -84,7 +85,7 @@ Each "zone" is enclosed by a collider. When the player crosses it (or a killZ), 
 </a>
 
 <div style="text-align: right;">
-<h5><a href="/data/Personal_work">To the Personal work page</a></h5>
+<h4><a href="/data/Personal_work">To the Personal work page</a></h4>
 </div>
 
 

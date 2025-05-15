@@ -5,6 +5,9 @@ date:   2023
 author: Ben Centra
 cover:  "/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_22.png"
 ---
+<div style="text-align: right;">
+<h4><a href="/data/Personal_work">To the Personal work page</a></h4>
+</div>
 
 This level was created as part of the CGMA course under the mentorship of Max Pears.
 
@@ -106,6 +109,8 @@ The high ground itself is inaccessible but destructible by the boss.
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_39.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_39.png">
 </a>
-
+<div style="text-align: right;">
+<h4><a href="/data/Personal_work">To the Personal work page</a></h4>
+</div>
 
 
