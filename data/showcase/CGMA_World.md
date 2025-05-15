@@ -69,7 +69,6 @@ I deliberately created a cliff so that the player can experience the sensation o
 <a href="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_33.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_33.png">
 </a>
-
 <a href="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_139.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_139.png">
 </a>
