@@ -6,6 +6,9 @@ author: ---
 categories: Mods
 cover:  "/assets/Portfolio/Mods/UT_Brutalism/Main1.png"
 ---
+<div style="text-align: right;">
+<h4><a href="/data/mods">To the Mods page</a></h4>
+</div>
 
 <h2>Reference</h2>
 
@@ -52,4 +55,6 @@ Some types of weapons, cartridges were selected and placed on the map so as not 
   <img src="/assets/Portfolio/Mods/UT_Brutalism/Add4.png">
 </a>
 
-
+<div style="text-align: right;">
+<h4><a href="/data/mods">To the Mods page</a></h4>
+</div>

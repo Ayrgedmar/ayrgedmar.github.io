@@ -7,6 +7,10 @@ cover:  "/assets/Portfolio/Mods/TES_V/ScreenShot72.bmp"
 
 <iframe width="740" height="415" src="https://www.youtube.com/embed/EndxHzR-2dI?si=B4p-VQOTXLOIVO0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<div style="text-align: right;">
+<h4><a href="/data/mods">To the Mods page</a></h4>
+</div>
+
 Download and play:
 [TESALL](https://tesall.club/files/modi-dlya-skyrim/lokatsii/11326-poselenie-anderstoun)
 
@@ -187,4 +191,7 @@ The mod was successfully launched on a weak laptop and on medium settings.
   <img src="/assets/Portfolio/Mods/TES_V/Opt2.png.png">
 </a>
 
+<div style="text-align: right;">
+<h4><a href="/data/mods">To the Mods page</a></h4>
+</div>
 

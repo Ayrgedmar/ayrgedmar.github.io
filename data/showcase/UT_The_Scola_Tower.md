@@ -6,6 +6,9 @@ author: 2020
 categories: Mods
 cover:  "/assets/Portfolio/Mods/UT_The_Scola_Tower/Screenshot_18.png"
 ---
+<div style="text-align: right;">
+<h4><a href="/data/mods">To the Mods page</a></h4>
+</div>
 
 <h2>References</h2>
 
@@ -99,3 +102,7 @@ To optimize the light I used Light Impotens Value.
 <a href="/assets/Portfolio/Mods/UT_The_Scola_Tower/VD1.png" data-lightbox="HG" data-title="HG">
   <img src="/assets/Portfolio/Mods/UT_The_Scola_Tower/VD1.png">
 </a>
+
+<div style="text-align: right;">
+<h4><a href="/data/mods">To the Mods page</a></h4>
+</div>
