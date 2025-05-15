@@ -9,7 +9,6 @@ cover:  "/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_22.png"
 <h4><a href="/data/Personal_work">To the Personal work page</a></h4>
 </div>
 
-This level was created as part of the CGMA course under the mentorship of Max Pears.
 
 <h2>General Description</h2>
 

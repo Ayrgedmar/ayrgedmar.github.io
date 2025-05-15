@@ -10,8 +10,6 @@ cover:  "/assets/Portfolio/Personal_works/CGMA_World/Screenshot_149.png"
 <h4><a href="/data/Personal_work">To the Personal work page</a></h4>
 </div>
 
-This level was created as part of the CGMA course under the mentorship of Max Pears.
-
 <h2>Location Overview</h2>
 
 This level was made as part of the course presets assignment.

@@ -6,18 +6,15 @@ author: ---
 categories: Personal works
 cover:  "/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15.png"
 ---
-
-This level was created as part of the CGMA course under the mentorship of Max Pears.
-
+<div style="text-align: right;">
+<h4><a href="/data/Personal_work">To the Personal work page</a></h4>
+</div>
 
 <div style="text-align: center;">
 <h3> <a href="https://docs.google.com/presentation/d/1TuV0rRSoD8G-c6vq8mKFUfeyibOxvS6NEUen-0cm4XQ/edit#slide=id.g2a286901a79_0_9">Pitch</a> </h3>
 </div>
 
 <h2>Preparation</h2>
-
-
-This level was created as part of the CGMA course under the mentorship of Max Pears.
 
 For the final project of the course, I decided to create a Gig for Cyberpunk 2077. The reference Gigs were "Gig: On a Tight Leash" and "Gig: Dirty Biz." Key building shapes and the general story/progression path were taken from them.
 
@@ -81,3 +78,6 @@ After that, V can take one of the two suggested paths, where only a couple of en
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_328.png">
 </a>
 
+<div style="text-align: right;">
+<h4><a href="/data/Personal_work">To the Personal work page</a></h4>
+</div>
