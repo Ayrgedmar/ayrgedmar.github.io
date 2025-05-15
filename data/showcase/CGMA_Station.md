@@ -22,7 +22,7 @@ Since the general structure was created first and the interior and gameplay were
 </a>
 
 <div style="text-align: center;">
-<h5><a href="/assets/Sci-Fi.pur">Download PureRef</a></h5>
+<h4><a href="/assets/Sci-Fi.pur">Download PureRef</a></h4>
 </div>
 
 <h2>Location Overview</h2>
