@@ -18,13 +18,18 @@ Since the general structure was created first and the interior and gameplay were
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png">
 </a>
 
+[PureRef](/assets/Sci-Fi.pur)
+
 <h2>Location Overview</h2>
 
 The level is set at a Water Purification Station on a colonized planet.
 The main reference was a map from Mass Effect.
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_25.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_25.png">
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png">
+</a>
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/1.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/1.png">
 </a>
 
 <h2>Mission:</h2>
