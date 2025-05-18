@@ -22,11 +22,9 @@ From this location, the player should be able to see four other landmarks in the
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_8.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_8.png">
 </a>
-
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png">
 </a>
-
 <div style="text-align: center;">
 <h4><a href="/assets/Sci-Fi.pur">Download PureRef</a></h4>
 </div>
@@ -46,11 +44,9 @@ Investigate why the station has stopped responding to communications.
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_7.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_7.png">
 </a>
-
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_155.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_155.png">
 </a>
-
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_6.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_6.png">
 </a>
@@ -103,7 +99,7 @@ Explore the station and activate triggers that weaken the boss
 <h2>Fourth Floor – Final Challenge</h2>
 
 A few enemies at the last preparation checkpoint - player can fight or sneak past them.
- 
+
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_23.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_23.png">
 </a>
