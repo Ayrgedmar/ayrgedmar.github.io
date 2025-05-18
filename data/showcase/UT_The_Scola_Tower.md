@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "The Scola Tower"
-date:   
 author: 2020
-categories: Mods
 cover:  "/assets/Portfolio/Mods/UT_The_Scola_Tower/Screenshot_18.png"
 ---
 <div style="text-align: right;">

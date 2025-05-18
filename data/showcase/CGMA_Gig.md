@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "CP2077 Gig:New Attendant"
-date:   2023
-author: ---
-categories: Personal works
+author: 2023
 cover:  "/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15.png"
 ---
 <div style="text-align: right;">

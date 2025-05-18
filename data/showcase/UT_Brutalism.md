@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "Brutalism"
-date:   2020
-author: ---
-categories: Mods
+author: 2020
 cover:  "/assets/Portfolio/Mods/UT_Brutalism/Main1.png"
 ---
 <div style="text-align: right;">

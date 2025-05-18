@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "Altitude "
-date:   2021
-author: --
-categories: Commercial work
+author: 2021
 cover:  "/assets/Portfolio/Commercial_work/WA_Altitude/Arts/Screenshot_11.png"
 ---
 <div style="text-align: right;">

@@ -187,8 +187,8 @@ The mod was successfully launched on a weak laptop and on medium settings.
 <a href="/assets/Portfolio/Mods/TES_V/Light2.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Mods/TES_V/Light2.png">
 </a>
-<a href="/assets/Portfolio/Mods/TES_V/Opt2.png.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Mods/TES_V/Opt2.png.png">
+<a href="/assets/Portfolio/Mods/TES_V/Opt2.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Mods/TES_V/Opt2.png">
 </a>
 
 <div style="text-align: right;">

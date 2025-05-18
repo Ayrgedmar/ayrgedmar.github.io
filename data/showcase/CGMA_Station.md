@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  "Sci-Fi Station"
-date:   2023
-author: Ben Centra
+author: 2023
 cover:  "/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_22.png"
 ---
 <div style="text-align: right;">
 <h4><a href="/data/Personal_work">To the Personal work page</a></h4>
 </div>
-
 
 <h2>General Description</h2>
 

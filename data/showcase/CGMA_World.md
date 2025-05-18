@@ -2,10 +2,8 @@
 layout: post
 title:  "Open World"
 date:   2023
-
 cover:  "/assets/Portfolio/Personal_works/CGMA_World/Screenshot_149.png"
 ---
-
 <div style="text-align: right;">
 <h4><a href="/data/Personal_work">To the Personal work page</a></h4>
 </div>

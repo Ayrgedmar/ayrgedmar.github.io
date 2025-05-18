@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "Concrete Land"
-date:   2020
-author: ----
-categories: Mods
+author: 2020
 cover:  "/assets/Portfolio/Mods/UT_Concrete_Land/Screenshot_11.png"
 ---
 <div style="text-align: right;">
