@@ -16,19 +16,19 @@ main_nav: true
 
 <h3>Highlights</h3>
 
-<h4><a href="../data/showcase/CGMA_Gig">CGMA CP2077 Gig:New Attendant</a></h4>
+<a href="../data/showcase/CGMA_Gig">CGMA CP2077 Gig:New Attendant</a>
 
 For my course project, I created a location for Cyberpunk 2077
 
-<h4><a href="../data/showcase/CGMA_Station">CGMA_Sci-Fi Station</a></h4>
+<a href="../data/showcase/CGMA_Station">CGMA Sci-Fi Station</a>
 
 The location features gameplay mechanics, a small quest, and original narrative — all designed and assembled in two weeks
 
-<h4><a href="../data/showcase/WA_Suburb">Suburb</a></h4>
+<a href="../data/showcase/WA_Suburb">Suburb</a>
 
 A full-scale (first) commercial-quality environment created from greybox to final art (modeling, texturing, lighting, etc.)
 
-<h4><a href="../data/showcase/TES_V">TES V Understone</a></h4>
+<a href="../data/showcase/TES_V">TES V Understone</a>
 
 My favorite creative project, made before I began my professional career
 
