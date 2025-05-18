@@ -16,6 +16,13 @@ This level was built around the theme “Station on a Planet.” As part of the 
 
 Since the general structure was created first and the interior and gameplay were added later (instead of the other way around), this made the task more challenging.
 
+Additional assignment requirement:
+From this location, the player should be able to see four other landmarks in the open world.
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_8.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_8.png">
+</a>
+
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png">
 </a>
@@ -36,18 +43,21 @@ The main reference was a map from Mass Effect.
 <h2>Mission:</h2>
 Investigate why the station has stopped responding to communications.
 
-Additional assignment requirement:
-From this location, the player should be able to see four other landmarks in the open world.
-
-The building consists of four floors.
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_7.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_7.png">
+</a>
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_155.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_155.png">
 </a>
 
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_6.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_6.png">
+</a>
+
 <h2>First Floor – Introduction</h2>
 
-Introduces interaction with objects. Показать, что есть враги, но издали
+Introduces interaction with objects.
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_27.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_27.png">
@@ -59,7 +69,7 @@ Introduces interaction with objects. Показать, что есть враг�
 
 <h2>Second Floor – First Challenge</h2>
 
-Игрок может сразиться с варгами разрешить пазл.
+Plyer must fight with enemies and solve the pazzle.
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_31.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_31.png">
@@ -73,9 +83,8 @@ Introduces interaction with objects. Показать, что есть враг�
 
 <h2>Third Floor – Escalation</h2>
 
-More enemies
-The player can see the boss on the lower floor and begin to prepare for the encounter
-Live NPCs can be found and interacted with
+More enemies and live NPCs. 
+NPC can told you some story and give aome edvises for how to solve the pazzle and fight with the boss
 
 
 Preparation Option:
@@ -93,11 +102,18 @@ Explore the station and activate triggers that weaken the boss
 
 <h2>Fourth Floor – Final Challenge</h2>
 
+A few enemies at the last preparation checkpoint - player can fight or sneak past them.
+ 
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_23.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_23.png">
 </a>
 
-A few enemies at the last preparation checkpoint
+Player can see the boss on the lower floor and begin to prepare for the encounter.
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_38.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_38.png">
+</a>
+
 Final Boss fight
 
 The boss is placed on high ground with multiple cover spots.
