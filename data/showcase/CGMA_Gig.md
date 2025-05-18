@@ -110,6 +110,10 @@ If you choose to negotiate, Evgeny Bazarov will provide you with a valuable weap
 
 Additionally, V will mention that he wants to talk to the fixer who hired them and make a good offer.
 
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Bazarov.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Bazarov.png">
+</a>
+
 <div style="text-align: right;">
 <h4><a href="/data/Personal_work">To the Personal work page</a></h4>
 </div>
