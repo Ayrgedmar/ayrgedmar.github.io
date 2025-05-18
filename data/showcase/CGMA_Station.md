@@ -19,15 +19,15 @@ Since the general structure was created first and the interior and gameplay were
 Additional assignment requirement:
 From this location, the player should be able to see four other landmarks in the open world.
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_8.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_8.png">
-</a>
-<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png">
-</a>
 <div style="text-align: center;">
 <h4><a href="/assets/Sci-Fi.pur">Download PureRef</a></h4>
 </div>
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_156.png">
+</a>
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_8.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_8.png">
+</a>
 
 <h2>Location Overview</h2>
 
