@@ -80,17 +80,15 @@ Plyer must fight with enemies and solve the pazzle.
 <h2>Third Floor – Escalation</h2>
 
 More enemies and live NPCs. 
-NPC can told you some story and give aome edvises for how to solve the pazzle and fight with the boss
+NPC can told you some story and give some edvises for how to solve the pazzle and fight with the boss
 
 
 Preparation Option:
 
-Fight directly through to the boss in a straightforward combat challenge
-
-
-The player can either:
-
-Explore the station and activate triggers that weaken the boss
+<ul>
+<li>Fight directly through to the boss in a straightforward combat challenge</li>
+<li>Explore the station and activate triggers that weaken the boss</li>
+</ul>
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_30.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_30.png">
@@ -110,7 +108,7 @@ Player can see the boss on the lower floor and begin to prepare for the encounte
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_38.png">
 </a>
 
-Final Boss fight
+<h2>Final Boss fight</h2>
 
 The boss is placed on high ground with multiple cover spots.
 There is an option to sneak to a safer elevated area.
