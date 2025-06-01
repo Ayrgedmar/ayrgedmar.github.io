@@ -7,6 +7,8 @@ cover:  "/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_22.png"
 <div style="text-align: right;">
 <h4><a href="/data/Personal_work">To the Personal work page</a></h4>
 </div>
+
+
 <iframe width="740" height="415" src="https://www.youtube.com/embed/pBYnd2fY-iU?si=_aJBruBC0XQj-4NC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 

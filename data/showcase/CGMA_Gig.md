@@ -8,6 +8,7 @@ cover:  "/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15.png"
 <h4><a href="/data/Personal_work">To the Personal work page</a></h4>
 </div>
 
+
 <iframe width="740" height="415" src="https://www.youtube.com/embed/SvSqWYFzKsw?si=PBZkHNPViZ62r6gR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div style="text-align: center;">

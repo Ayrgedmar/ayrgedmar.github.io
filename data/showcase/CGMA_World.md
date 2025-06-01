@@ -8,6 +8,9 @@ cover:  "/assets/Portfolio/Personal_works/CGMA_World/Screenshot_149.png"
 <h4><a href="/data/Personal_work">To the Personal work page</a></h4>
 </div>
 
+
+<iframe width="740" height="415" src="https://www.youtube.com/embed/5aioOLIHU28?si=mvKCvU9HQZ7cdl6u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h2>Location Overview</h2>
 
 This level was made as part of the course presets assignment.
