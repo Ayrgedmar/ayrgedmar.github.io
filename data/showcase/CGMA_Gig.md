@@ -8,6 +8,8 @@ cover:  "/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15.png"
 <h4><a href="/data/Personal_work">To the Personal work page</a></h4>
 </div>
 
+<iframe width="740" height="415" src="https://www.youtube.com/embed/SvSqWYFzKsw?si=PBZkHNPViZ62r6gR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <div style="text-align: center;">
 <h3> <a href="https://docs.google.com/presentation/d/1TuV0rRSoD8G-c6vq8mKFUfeyibOxvS6NEUen-0cm4XQ/edit#slide=id.g2a286901a79_0_9">Pitch</a> </h3>
 </div>
