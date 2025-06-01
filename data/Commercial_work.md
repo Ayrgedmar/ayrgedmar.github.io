@@ -1,7 +1,7 @@
 <h2>Farcana</h2>
 
 <div style="text-align: center;">
-<h3><a href="https://www.farcana.com/">Farcana</a></h3>
+<h3><a href="https://store.epicgames.com/en-US/p/farcana-a75731" target="_blank">Farcana</a></h3>
 </div>
 
 <a href="https://www.farcana.com/">
