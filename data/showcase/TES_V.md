@@ -37,7 +37,7 @@ That’s what I did in each of the three locations.
   <img src="/assets/Portfolio/Mods/TES_V/ScreenShot7.bmp">
 </a>
 
-<h3>location</h3>
+<h3>Location</h3>
 
 I made a molecular plan of the gameplay of the whole location, which was followed by the decision to divide the whole map into three sections:
 
