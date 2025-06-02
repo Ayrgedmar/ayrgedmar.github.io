@@ -4,8 +4,8 @@
 <h3><a href="https://store.epicgames.com/en-US/p/farcana-a75731" target="_blank">Farcana</a></h3>
 </div>
 
-<a href="https://www.farcana.com/">
-  <img src="/assets/Portfolio/Commercial_work/farcana-1aw1l.png" alt="Farcana" style="max-width: 100%; height: auto;"target="_blank">
+<a href="https://store.epicgames.com/en-US/p/farcana-a75731" >
+  <img src="/assets/Portfolio/Commercial_work/farcana-1aw1l.png" alt="Farcana" style="max-width: 100%; height: auto;" >
 </a>
 
 <h2>War After</h2>
