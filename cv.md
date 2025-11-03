@@ -6,9 +6,9 @@ main_nav: true
 ---
 
 
-<h1 id="headings">Tolstikhina Iana - Level Designer</h1>
+<h1 id="headings">Tolstikhin Anton - Level Designer</h1>
 
-[Download PDF](/assets/CV Tolstikhina Iana - Level Designer.pdf)
+[Download PDF](/assets/CV Tolstikhin Anton - Level Designer.pdf)
 
 qwoterlow@gmail.com
 
