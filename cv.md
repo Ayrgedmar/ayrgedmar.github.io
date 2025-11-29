@@ -10,7 +10,7 @@ main_nav: true
 
 [Download PDF](/assets/CV Tolstikhin Anton - Level Designer.pdf)
 
-qwoterlow@gmail.com
+Ayrgedmar@proton.me
 
 
 [LinkedIn](https://www.linkedin.com/in/ayrgedmar/)
@@ -25,6 +25,27 @@ qwoterlow@gmail.com
 <hr>
 <hr>
 
+<h2>Unannounced RPG MOO project</h2>
+
+<h4>Senior/Lead Level designer</h4>
+July 2025 - Now
+
+Researched and defined the core vision for the project’s location design. Analyzed genre-specific reference techniques and established visual and gameplay direction guidelines.
+Created a fully playable 15–20 minute demo level and several prototype locations to validate mechanics, pacing, and player experience.
+Developed and tested internal level design standards and coordinated workflow alignment between Game Design, Level Art, and Level Design teams.
+
+<ul> 
+<li>Defined the location design vision and reference framework for the project</li>
+<li>Built multiple prototype locations and one polished vertical slice demonstrating core gameplay</li>
+<li>Formulated and tested level design standards (metrics, composition rules, traversal, readability)</li>
+<li>Ensured cross-department pipeline synchronization (GD ↔ LA ↔ LD)</li>
+<li>Facilitated iterative playtesting and incorporated feedback into design guidelines</li>
+
+</ul>
+
+<hr>
+<hr>
+
 <h2>Farcana</h2>
 
 [Farcana](https://www.linkedin.com/company/dizzaract/posts/?feedView=all)/[Dizzirct](https://www.dizzaract.com/) - [Farcana](https://www.farcana.com/) /
@@ -34,30 +55,30 @@ qwoterlow@gmail.com
 <h4>Lead Level designer</h4>
 Oct 2024 - Apr 2025
 
-As a Lead Level Designer, I participated in the hiring process and managed both junior and mid-level designers. I was involved in developing the company’s map production pipeline, overseeing team members and planning their tasks. I handled both organizational and technical challenges—not only within the Level Design department but also in collaboration with Game Design, Lighting/Art, Narrative, Sound Design, and Programming teams. I wrote level design requirements and created internal documentation for the department.
+Led a small team of junior and mid-level level designers and took part in the hiring and onboarding process.
+Developed and maintained the company’s level design and map production pipeline.
+Coordinated cross-department workflows with Game Design, Art/Lighting, Narrative, Sound, and Programming.
+Authored internal documentation, level design requirements, and workflow guidelines.
 
 <ul> 
-<li>Planning</li>
-<li>Management</li>
-<li>Coordinated pipeline synchronization across departments</li>
-<li>Design workflow optimization through art-side features</li>
+<li>Built and optimized the level design pipeline to improve predictability and delivery speed</li>
+<li>Ensured synchronization of pipelines across departments (LD ↔ Art ↔ Tech ↔ Narrative)</li>
+<li>Contributed to feature planning on the art side to streamline LD workflows</li>
+<li>Managed task planning, reviews, and daily coordination for the LD team</li>
 </ul>
 
 <h4>Level designer</h4>
 Dec 2023 - Oct 2024
 
-Worked on a PC MOBA shooter project.
-Together with the team, we developed map designs inspired by titles such as Overwatch 2, Team Fortress 2, and Paladins.
-
-I designed 4 maps from layout concepts to whiteboxing, across different game modes.
+Worked on a PC MOBA-shooter project in the style of Overwatch 2 / Team Fortress 2 / Paladins.
+Designed multiple playable levels from early concepts to whitebox stage.
 
 <ul> 
-<li>Level Design Documentation for Artists</li>
-<li>Blockout UE5</li>
-<li>Whitebox</li>
-<li>Gameplay setup</li>
+<li>Designed 4 maps across different game modes from layout → blockout → whitebox iteration</li>
+<li>Built blockouts in Unreal Engine 5</li>
+<li>Set up basic gameplay logic, navigation, and interactions</li>
+<li>Participated in playtests and improved layouts based on feedback and metrics</li>
 </ul>
-
 
 <hr>
 <hr>
@@ -68,15 +89,13 @@ I designed 4 maps from layout concepts to whiteboxing, across different game mod
 <h4>Level designer </h4>
 Sep 2022 - Nov 2023
 
-Mobile free to play multiplayer FPS.
-
-Made 3 maps
+Designed 3 multiplayer maps from initial concept to whitebox stage for a mobile free-to-play first-person shooter.
 
 <ul> 
-<li>Level Design Documentation for Artists</li>
-<li>Blockout Unity</li>
-<li>Whitebox</li>
-<li>Gameplay setup</li>
+<li>Created 3 fully playable maps (layout → blockout → whitebox → iteration)</li>
+<li>Built blockouts and prototypes in Unity</li>
+<li>Conducted internal testing sessions and iterated based on feedback and analytics</li>
+<li>Set up gameplay logic, player flows, spawn points, objectives, and testing setups</li>
 </ul>
 
 <hr>
@@ -88,22 +107,17 @@ Made 3 maps
 <h4>Level designer/artist</h4>
 Oct 2020 - Dec 2021
 
-Mobile free to play tactical multiplayer FPS
-Made 2 maps for project, you can see them on my Artstation
-One is at the Greybox stage, the other is in release
-According to internal analytics my released map ranks the third place in players choice, after tutorial location and arena map
+Mobile free to play tactical multiplayer FPS in the style of Counter Strike. Made 2 maps for the project.
 
 <ul> 
-<li>Made 1 map from scheme to build (Ld/La pipeline)</li>
-<li>Made 1 map greybox</li>
-<li>Warked as LA with 2 maps</li>
-<li>Blockout Unity</li>
-<li>Whitebox</li>
-<li>Gameplay setup</li>
-<li>Modeling</li>
-<li>Texturing</li>
+<li>Designed 2 full map from initial layout scheme to final build, following the LD/LA pipeline</li>
+<li>Worked as Level Artist on 3 maps (environment composition, polishing, assets)</li>
+<li>Set up gameplay logic, player navigation, spawn systems, and combat spaces for testing</li>
+<li>Designed, modeled and textured environment assets as part of level art responsibilities</li>
 </ul>
 
 <hr>
 
 <img src="/assets/Screenshot_3.png" alt="skills" style="width: auto; height: auto;">
+
+<hr>
