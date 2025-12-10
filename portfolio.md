@@ -16,6 +16,12 @@ main_nav: true
 
 <h3>Highlights</h3>
 
+
+<a href="https://store.epicgames.com/en-US/p/farcana-a75731" target="_blank">Farcana</a>
+
+Farcana is a PvP team-based third-person hero shooter.
+For this project, I created four maps for different modes (NDA) and led the Level Design department.
+
 <a href="../data/showcase/CGMA_Gig">CGMA CP2077 Gig:New Attendant</a>
 
 For my course project, I created a location for Cyberpunk 2077
