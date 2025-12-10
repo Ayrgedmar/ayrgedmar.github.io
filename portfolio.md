@@ -19,8 +19,8 @@ main_nav: true
 
 <h4> <a href="https://store.epicgames.com/en-US/p/farcana-a75731" target="_blank">Farcana</a> </h4>
 
-<h4> Farcana is a PvP team-based third-person hero shooter.
-For this project, I created four maps for different modes (NDA) and led the Level Design department. </h4>
+Farcana is a PvP team-based third-person hero shooter.
+For this project, I created four maps for different modes (NDA) and led the Level Design department.
 
 ---
 
