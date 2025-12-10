@@ -21,16 +21,19 @@ main_nav: true
 
 <h4> Farcana is a PvP team-based third-person hero shooter.
 For this project, I created four maps for different modes (NDA) and led the Level Design department. </h4>
+
 ---
 
 <a href="../data/showcase/WA_Suburb">Suburb</a>
 
 A full-scale (first) commercial-quality environment created from greybox to final art (modeling, texturing, lighting, etc.)
+
 ---
 
 <a href="../data/showcase/CGMA_Gig">CGMA CP2077 Gig:New Attendant</a>
 
 For my course project, I created a location for Cyberpunk 2077
+
 ---
 
 <a href="../data/showcase/CGMA_Station">CGMA Sci-Fi Station</a>
