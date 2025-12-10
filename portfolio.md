@@ -34,9 +34,3 @@ For my course project, I created a location for Cyberpunk 2077
 
 The location features gameplay mechanics, a small quest, and original narrative — all designed and assembled in two weeks
 
-<a href="../data/showcase/TES_V">TES V Understone</a>
-
-My favorite creative project, made before I began my professional career
-
-
-
