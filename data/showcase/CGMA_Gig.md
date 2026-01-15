@@ -23,6 +23,10 @@ For the final project of the course, I decided to create a Gig for Cyberpunk 207
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_335.png">
 </a>
 
+I designed the level so that there are three layers of gameplay: infiltrating the building using different paths and skills; dealing with enemies on the first floor either by sneaking past them using stealth or engaging in combat; and neutralizing enemies on the second floor. Each playstyle can be easier but may result in less loot, or easier at first but leave the player unprepared for the turret, making the encounter more difficult. Each path offers distinct gameplay and combines different player skills. The level is also open enough to allow preparation for combat, especially by hacking cameras and scouting the interior of the building.
+
+To complete this level, the player can choose between two flanking routes that require bypassing enemies and using abilities, or a direct route that leads straight into combat.
+
 The level was designed to be completed in three different ways:
 
 <ul>
@@ -42,13 +46,33 @@ First scheme:
 </a>
 
 
+Final schemes:
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/S1F.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/S1F.png">
+</a>
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/S2F.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/S2F.png">
+</a>
+
+
 <h3>Combat</h3>
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_335.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_335.png">
 </a>
 
-The battle is a massive fight with a bunch of enemies, mostly in open terrain; only a few will remain in the house. Additionally, V can use a turret to epicly neutralize them with this big gun.
+To make combat more engaging, I placed a turret that can be picked up and used against enemies.
+The battle is a massive fight with a bunch of enemies, mostly in open terrain. I placed various pieces of cover on different sides so that it’s convenient to take cover, shoot, and move smoothly toward the objective.
+
+Outdoor
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_14.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_14.png">
+</a>
+
+Indoor
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_5.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_5.png">
@@ -63,11 +87,23 @@ The battle is a massive fight with a bunch of enemies, mostly in open terrain; o
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_3.png">
 </a>
 
-While traversing stealthily, the player needs to find a safe entrance to the area and choose several paths. During the passage, enemies encountered along the way need to be neutralized, and the player must reach the goal.
+The left path allows the player to bypass enemies and enter closer to the main entrance, but it requires using a skill to open the door.
+The player can reach a guard booth and disable the cameras. For this, I placed a series of covers that block the cameras and a bot, which must either be dealt with or waited out.
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15.png">
+</a>
+
+The second route requires taking a longer path, but it also involves interacting with cameras and enemies.
+
+At the end, the player can either enter the building closer to the staircase leading to the objective, or jump up using a double jump ability (which requires a specific skill).
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_14.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_14.png">
 </a>
+
+On the lower level, the player needs to disable an enemy, which can then be hidden in a container.
+
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_330.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_330.png">
 </a>
@@ -80,19 +116,35 @@ While traversing stealthily, the player needs to find a safe entrance to the are
 
 <h3>Netrunner</h3>
 
-Beyond the gate, V can sneak into the guardhouses, use the computer to activate the turret in the main building, and deal with a couple of enemies in the line of sight. V can also take control of cameras and neutralize enemies with demons.
+As described above, the player can slip past enemies along the right flanking path and reach the booth, where cameras can be activated and hacking abilities can be used against enemies.
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_4.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_4.png">
 </a>
-<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_328.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_328.png">
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_17.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_17.png">
 </a>
 
 After that, V can take one of the two suggested paths, where only a couple of enemies will remain.
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/P2.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/P2.png">
+</a>
+
+<h3>Second Floor</h3>
+
+Inside, the player can move forward and see the staircase leading up. This route is more difficult and requires hacking cameras and sneaking past enemies, or alternatively fighting through them.
+
+A simpler route is the far door. Reaching it also requires bypassing guards.
+
+The reward is a better position on the second floor and access to valuable loot.
+
+On the second floor, the player needs to distract the guards and the turret. This can be done from cover or through direct combat.
+
+Once this is completed, the player can safely reach the objective.
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_328.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_328.png">
 </a>
 
 <h3>The END</h3>
