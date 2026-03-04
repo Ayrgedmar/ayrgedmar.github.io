@@ -70,7 +70,7 @@ Authored internal documentation, level design requirements, and workflow guideli
 <h4>Level designer</h4>
 Dec 2023 - Oct 2024
 
-Worked on a PC MOBA-shooter project in the style of Overwatch 2 / Team Fortress 2 / Paladins.
+Worked on a AA PC MOBA-shooter project in the style of Overwatch 2 / Team Fortress 2 / Paladins.
 Designed multiple playable levels from early concepts to whitebox stage.
 
 <ul> 
