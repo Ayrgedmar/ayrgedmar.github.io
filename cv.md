@@ -48,7 +48,7 @@ Developed and tested internal level design standards and coordinated workflow al
 
 <h2>Farcana</h2>
 
-[Farcana](https://www.linkedin.com/company/dizzaract/posts/?feedView=all)/[Dizzirct](https://www.dizzaract.com/) - [Farcana](https://www.farcana.com/) /
+[Farcana](https://www.linkedin.com/company/dizzaract/posts/?feedView=all)/[Dizziract](https://www.dizzaract.com/) - [Farcana](https://www.farcana.com/) /
 [Farcana EGS](https://store.epicgames.com/en-US/p/farcana-a75731)
 
 
