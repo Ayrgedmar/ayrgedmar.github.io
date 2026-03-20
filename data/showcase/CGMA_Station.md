@@ -16,8 +16,6 @@ cover:  "/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_22.png"
 
 This level was built around the theme “Station on a Planet.” As part of the course, we were asked to develop a small narrative, starting with a general description of an open-world location and to create an initial exterior blockout. We were then tasked with designing the station’s interior, incorporating gameplay elements.
 
-Since the general structure was created first and the interior and gameplay were added later (instead of the other way around), this made the task more challenging.
-
 Additional assignment requirement:
 From this location, the player should be able to see four other landmarks in the open world.
 
@@ -31,6 +29,8 @@ From this location, the player should be able to see four other landmarks in the
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_8.png">
 </a>
 
+<hr>
+
 <h2>Location Overview</h2>
 
 The level is set at a Water Purification Station on a colonized planet.
@@ -40,7 +40,19 @@ The main reference was a map from Mass Effect.
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/1.png">
 </a>
 
-<h2>Mission:</h2>
+<h2>Design</h2>
+
+Each floor should serve its own purpose:
+
+<ul>
+<li>1 - Introduce mechanics and narrative without overwhelming the player</li>
+<li>2 - Increase tension, first encounter, and NPCs who advance the story and help solve the location’s objective</li>
+<li>3 - Main puzzle, more enemies, preparation for the boss</li>
+<li>4 - Final boss fight</li>
+</ul>
+
+
+Misson for a player:
 Investigate why the station has stopped responding to communications.
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_7.png" data-lightbox="refs" data-title="Refs">
@@ -53,21 +65,53 @@ Investigate why the station has stopped responding to communications.
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_6.png">
 </a>
 
+<hr>
+
 <h2>First Floor – Introduction</h2>
 
-Introduces interaction with objects.
+Objectives:
+
+<ul>
+<li>Immerse the player in the narrative and mechanics</li>
+<li>Introduce the enemies the player will face</li>
+</ul>
+
+On the first floor, I placed three elements:
+
+Notes and environmental storytelling (overturned tables and empty rooms)
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_27.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_27.png">
 </a>
+
+A barricaded enemy that the player can observe
+
+Interactive objects
+
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_26.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_26.png">
 </a>
 
+<hr>
+
 
 <h2>Second Floor – First Challenge</h2>
 
-Plyer must fight with enemies and solve the pazzle.
+On the second floor, I placed a couple of enemies that can be dealt with either through combat or eliminated via stealth.
+I added more narrative elements to deepen immersion in the location’s story and provide hints on how to defeat the boss.
+In the far area, the player can find NPCs to talk to; they will give instructions for completing the third floor.
+
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_30.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_30.png">
+</a>
+
+<hr>
+
+
+<h2>Third Floor – Escalation</h2>
+
+The room mentioned by the NPCs is immediately visible — to activate it, the player must pass through enemies in the “Server Room”.
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_31.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_31.png">
@@ -79,12 +123,6 @@ Plyer must fight with enemies and solve the pazzle.
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_36.png">
 </a>
 
-<h2>Third Floor – Escalation</h2>
-
-More enemies and live NPCs. 
-NPC can told you some story and give some edvises for how to solve the pazzle and fight with the boss
-
-
 Preparation Option:
 
 <ul>
@@ -92,9 +130,8 @@ Preparation Option:
 <li>Explore the station and activate triggers that weaken the boss</li>
 </ul>
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_30.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_30.png">
-</a>
+<hr>
+
 
 <h2>Fourth Floor – Final Challenge</h2>
 
@@ -109,6 +146,9 @@ Player can see the boss on the lower floor and begin to prepare for the encounte
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_38.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_38.png">
 </a>
+
+<hr>
+
 
 <h2>Final Boss fight</h2>
 
