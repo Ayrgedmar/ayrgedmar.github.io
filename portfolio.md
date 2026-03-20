@@ -26,7 +26,7 @@ For this project, I created four maps for different modes (NDA) and led the Leve
 
 <a href="../data/showcase/RY_Demo">Rad Yarn</a>
 
-Map for MMORG (15-20 minutes)
+Map for MMORPG (15-20 minutes)
 
 ---
 
