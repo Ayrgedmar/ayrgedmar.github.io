@@ -2,7 +2,7 @@
 layout: post
 title:  "MMORPG map"
 author:  2025
-cover:  "/assets/Portfolio/Commercial_work/RY_Demo/mainsc/2.png"
+cover:  "/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_500.png"
 ---
 <div style="text-align: right;">
 <h4><a href="/data/Commercial_work">To the Commercial work page</a></h4>
@@ -62,17 +62,13 @@ Objectives:
 Enemies were placed progressively: starting with simple mobs without special abilities, becoming more complex further along
 At the exit of the zone, we placed the first “strong” enemy
 
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/Image.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Image.png">
-</a>
-
 
 <h3>Design decisions</h3>
 
 The spawn area is a small arena, making it easier for players to orient themselves when entering the game
 
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_486.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_486.png">
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_496.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_496.png">
 </a>
 
 I added mid-sized shapes and elevation to immediately indicate direction once players decide to move forward
@@ -137,11 +133,11 @@ Possible encounters include:
 When flanking, players encounter a smaller number of enemies to maintain tension
 Upon exiting, players gain an advantage: they can attack enemies at range, while enemies must take a longer curved path to reach them, giving players an edge in positioning and timing
 
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_37.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_37.png">
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_497.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_497.png">
 </a>
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_34.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_34.png">
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_498.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_498.png">
 </a>
 
 <hr>
@@ -152,19 +148,26 @@ Upon exiting, players gain an advantage: they can attack enemies at range, while
 
 Before transitioning to the final zone, it was decided to create a “mob rush” from the forest to build tension before the boss fight. Players defend against waves of special enemies
 
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_36.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_36.png">
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_499.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_499.png">
 </a>
 
 <h2>Arena objective</h2>
+
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/art/Boss_Arena.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/Boss_Arena.png">
+</a>
 
 <ul>
 <li>The arena is simple and open</li>
 <li>There are several large cover objects for handling special attacks</li>
 </ul> 
 
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/art/Boss_Arena.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/Boss_Arena.png">
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_500.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_500.png">
+</a>
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_501.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_501.png">
 </a>
 
 
