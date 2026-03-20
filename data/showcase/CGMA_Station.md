@@ -80,11 +80,18 @@ On the first floor, I placed three elements:
 
 Notes and environmental storytelling (overturned tables and empty rooms)
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_27.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_27.png">
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_473.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_473.png">
+</a>
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_474.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_474.png">
 </a>
 
 A barricaded enemy that the player can observe
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_27.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_27.png">
+</a>
 
 Interactive objects
 
@@ -105,6 +112,10 @@ In the far area, the player can find NPCs to talk to; they will give instruction
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_30.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_30.png">
 </a>
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_479.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_479.png">
+</a>
+
 
 <hr>
 
@@ -113,6 +124,10 @@ In the far area, the player can find NPCs to talk to; they will give instruction
 
 The room mentioned by the NPCs is immediately visible — to activate it, the player must pass through enemies in the “Server Room”.
 
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_476.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_476.png">
+</a>
 <a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_31.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_31.png">
 </a>
@@ -157,8 +172,8 @@ There is an option to sneak to a safer elevated area.
 The high ground itself is inaccessible but destructible by the boss.
 
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_39.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_39.png">
+<a href="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_40.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Station/Screenshot_40.png">
 </a>
 <div style="text-align: right;">
 <h4><a href="/data/Personal_work">To the Personal work page</a></h4>
