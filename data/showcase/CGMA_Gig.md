@@ -103,10 +103,10 @@ Inside, I also placed many cover points to support combat.
 
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15_cop.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15_cop.png.png">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15_cop.png">
 </a>
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_16.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_16.png.png">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_16.png">
 </a>
 
 <hr>
