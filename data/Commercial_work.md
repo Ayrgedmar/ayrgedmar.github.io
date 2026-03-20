@@ -22,6 +22,6 @@
 <h3><a href="../data/showcase/RY_Demo">Rad Yarn</a></h3>
 </div>
 <a href="../data/showcase/RY_Demo">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_495.png" alt="Rad Yarn" style="max-width: 100%; height: auto;">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_500.png" alt="Rad Yarn" style="max-width: 100%; height: auto;">
 </a>
 
