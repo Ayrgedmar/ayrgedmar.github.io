@@ -117,15 +117,19 @@ Possible encounters include:
 <li>When crossing the bridge, players are forced to fight strong enemies</li>
 </ul> 
 
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_494.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_494.png">
-</a>
+
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_493.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_493.png">
 </a>
+
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_32.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_32.png">
 </a>
+
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_494.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_494.png">
+</a>
+
 
 
 <h3>Combat Land 2</h3>
