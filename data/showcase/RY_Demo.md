@@ -2,7 +2,7 @@
 layout: post
 title:  "MMORPG map"
 author:  2025
-cover:  "/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_500.png"
+cover:  "/assets/Portfolio/Commercial_work/RY_Demo/art/HighresScreenshot00000.png"
 ---
 <div style="text-align: right;">
 <h4><a href="/data/Commercial_work">To the Commercial work page</a></h4>
