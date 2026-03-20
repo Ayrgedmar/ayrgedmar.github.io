@@ -15,7 +15,7 @@
 </div>
 
 <a href="../data/showcase/RY_Demo">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/Field.png" alt="Rad Yarn" style="max-width: 100%; height: auto;">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/HighresScreenshot00006.png" alt="Rad Yarn" style="max-width: 100%; height: auto;">
 </a>
 
 
