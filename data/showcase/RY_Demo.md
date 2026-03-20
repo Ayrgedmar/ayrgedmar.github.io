@@ -95,8 +95,8 @@ Before exiting the zone, I fully blocked the view of the next section of the map
 
 Scheme
 
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_12.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_12.png">
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_12_Refs.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_12_Refs.png">
 </a>
 
 <h3>Combat Land 1</h3>
