@@ -15,13 +15,22 @@ cover:  "/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15.png"
 <h3> <a href="https://docs.google.com/presentation/d/1TuV0rRSoD8G-c6vq8mKFUfeyibOxvS6NEUen-0cm4XQ/edit#slide=id.g2a286901a79_0_9">Pitch</a> </h3>
 </div>
 
-<h2>Preparation</h2>
+<h2>About the project</h2>
 
 For the final project of the course, I decided to create a Gig for Cyberpunk 2077. The reference Gigs were "Gig: On a Tight Leash" and "Gig: Dirty Biz." Key building shapes and the general story/progression path were taken from them.
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_335.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_335.png">
 </a>
+
+
+<hr>
+
+<h3>Idea</h3>
+
+<ul>
+<li>Create a level that the player completes by using their skills and progression, adapting flexibly to their playstyle</ul> 
+
 
 I designed the level so that there are three layers of gameplay: infiltrating the building using different paths and skills; dealing with enemies on the first floor either by sneaking past them using stealth or engaging in combat; and neutralizing enemies on the second floor. Each playstyle can be easier but may result in less loot, or easier at first but leave the player unprepared for the turret, making the encounter more difficult. Each path offers distinct gameplay and combines different player skills. The level is also open enough to allow preparation for combat, especially by hacking cameras and scouting the interior of the building.
 
@@ -39,12 +48,7 @@ The level was designed to be completed in three different ways:
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/1.png">
 </a>
 
-First scheme:
-
-<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Sc.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Sc.png">
-</a>
-
+<hr>
 
 Final schemes:
 
@@ -56,6 +60,7 @@ Final schemes:
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/S2F.png">
 </a>
 
+<hr>
 
 <h3>Combat</h3>
 
@@ -63,25 +68,57 @@ Final schemes:
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_335.png">
 </a>
 
+<h3>Goals</h3>
+
+<ul>
+<li>Create a comfortable combat space for the player</li>
+<li>There should be multiple options for combat</li>
+</ul> 
+
 To make combat more engaging, I placed a turret that can be picked up and used against enemies.
 The battle is a massive fight with a bunch of enemies, mostly in open terrain. I placed various pieces of cover on different sides so that it’s convenient to take cover, shoot, and move smoothly toward the objective.
 
-Outdoor
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/P1.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/P1.png">
+</a>
+
+<h3>Outdoor</h3>
+
+
+I placed cover in such a way that combat can be conducted from multiple positions, using cover from different sides.
+
+<ul>
+<li>Use a turret at the entrance</li>
+<li>There are covered positions to the left and right of the entrance</li>
+</ul> 
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_14.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_14.png">
 </a>
 
-Indoor
+<h3>Indoor</h3>
 
-<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_5.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_5.png">
+Inside, I also placed many cover points to support combat.
+
+
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15_cop.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15_cop.png.png">
 </a>
-<a href="/assets/Portfolio/Personal_works/CGMA_Gig/P1.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/P1.png">
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_16.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_16.png.png">
 </a>
+
+<hr>
 
 <h3>Stealth</h3>
+
+For stealth playthroughs, I created several paths that support different playstyles, allowing the player to use their skills.
+
+<ul>
+<li>The right path is for a Netrunner</li>
+<li>The left path is for pure stealth or using cyberware</li>
+</ul>
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_3.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_3.png">
@@ -92,6 +129,9 @@ The player can reach a guard booth and disable the cameras. For this, I placed a
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_15.png">
+</a>
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_5.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_5.png">
 </a>
 
 The second route requires taking a longer path, but it also involves interacting with cameras and enemies.
@@ -104,6 +144,9 @@ At the end, the player can either enter the building closer to the staircase lea
 
 On the lower level, the player needs to disable an enemy, which can then be hidden in a container.
 
+<a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_18.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_18.png">
+</a>
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_330.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_330.png">
 </a>
@@ -113,6 +156,8 @@ On the lower level, the player needs to disable an enemy, which can then be hidd
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/P3.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/P3.png">
 </a>
+
+<hr>
 
 <h3>Netrunner</h3>
 
@@ -131,6 +176,8 @@ After that, V can take one of the two suggested paths, where only a couple of en
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/P2.png">
 </a>
 
+<hr>
+
 <h3>Second Floor</h3>
 
 Inside, the player can move forward and see the staircase leading up. This route is more difficult and requires hacking cameras and sneaking past enemies, or alternatively fighting through them.
@@ -146,6 +193,8 @@ Once this is completed, the player can safely reach the objective.
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_328.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_328.png">
 </a>
+
+<hr>
 
 <h3>The END</h3>
 
