@@ -33,11 +33,6 @@ It’s important to note that the balance was set up so that levels and new abil
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Image.png">
 </a>
 
-Zone 2
-
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_12.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_12.png">
-</a>
 
 <hr>
 
@@ -94,9 +89,14 @@ Before exiting the zone, I fully blocked the view of the next section of the map
 <h2>Zone 2</h2>
 
 
-
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/art/Field.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/Field.png">
+</a>
+
+Scheme
+
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_12.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_12.png">
 </a>
 
 <h3>Combat Land 1</h3>
@@ -163,11 +163,11 @@ Before transitioning to the final zone, it was decided to create a “mob rush�
 <li>There are several large cover objects for handling special attacks</li>
 </ul> 
 
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_500.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_500.png">
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_500.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_500.png">
 </a>
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_501.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_501.png">
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_501.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_501.png">
 </a>
 
 
