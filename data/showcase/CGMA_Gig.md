@@ -26,10 +26,7 @@ For the final project of the course, I decided to create a Gig for Cyberpunk 207
 
 <hr>
 
-<h3>Idea</h3>
-
-<ul>
-<li>Create a level that the player completes by using their skills and progression, adapting flexibly to their playstyle</ul> 
+<h2>Idea</h2>
 
 
 I designed the level so that there are three layers of gameplay: infiltrating the building using different paths and skills; dealing with enemies on the first floor either by sneaking past them using stealth or engaging in combat; and neutralizing enemies on the second floor. Each playstyle can be easier but may result in less loot, or easier at first but leave the player unprepared for the turret, making the encounter more difficult. Each path offers distinct gameplay and combines different player skills. The level is also open enough to allow preparation for combat, especially by hacking cameras and scouting the interior of the building.
@@ -48,9 +45,7 @@ The level was designed to be completed in three different ways:
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/1.png">
 </a>
 
-<hr>
-
-Final schemes:
+<h3>Final schemes</h3>
 
 <a href="/assets/Portfolio/Personal_works/CGMA_Gig/S1F.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/S1F.png">
@@ -83,7 +78,7 @@ The battle is a massive fight with a bunch of enemies, mostly in open terrain. I
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/P1.png">
 </a>
 
-<h3>Outdoor</h3>
+<h4>Outdoor</h4>
 
 
 I placed cover in such a way that combat can be conducted from multiple positions, using cover from different sides.
@@ -97,7 +92,7 @@ I placed cover in such a way that combat can be conducted from multiple position
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_14.png">
 </a>
 
-<h3>Indoor</h3>
+<h4>Indoor</h4>
 
 Inside, I also placed many cover points to support combat.
 
