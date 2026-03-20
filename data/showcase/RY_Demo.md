@@ -121,11 +121,9 @@ Possible encounters include:
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_493.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_493.png">
 </a>
-
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_32.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_32.png">
 </a>
-
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_494.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_494.png">
 </a>
