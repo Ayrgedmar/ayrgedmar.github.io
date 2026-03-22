@@ -101,8 +101,8 @@ For readability, I designed the location so that its elements are arranged from 
 <li>The arena itself</li>
 </ul> 
 
-<a href="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_492_2.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_492_2.png">
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_492_2.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_492_2.png">
 </a>
 
 <h3>Scheme</h3>

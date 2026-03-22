@@ -11,7 +11,7 @@
 <h2>Rad Yarn</h2>
 
 <div style="text-align: center;">
-<h3><a href="../data/showcase/RY_Demo">Sineus</a></h3>
+<h3><a href="../data/showcase/RY_Demo">Sineus (Multiplayer RPG)</a></h3>
 </div>
 
 <a href="../data/showcase/RY_Demo">

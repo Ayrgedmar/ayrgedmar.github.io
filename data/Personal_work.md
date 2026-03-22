@@ -1,3 +1,4 @@
+
 <h2>CGMA by Max Pears </h2>
 
 <h3>Coursework</h3>
@@ -9,8 +10,6 @@
 <a href="../data/showcase/CGMA_Gig">
   <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_335.png" alt="CGMA_Gig" style="max-width: 100%; height: auto;">
 </a>
-
-<h3>Other</h3>
 
 <div style="text-align: center;">
 <h3> <a href="../data/showcase/CGMA_Station">Sci-Fi Station</a> </h3>
@@ -25,3 +24,13 @@
 <a href="../data/showcase/CGMA_World">
   <img src="/assets/Portfolio/Personal_works/CGMA_World/Screenshot_9.png" alt="CGMA_World" style="max-width: 100%; height: auto;">
 </a>
+
+
+<div style="text-align: center;">
+<h3> <a href="../data/showcase/TDM">Team Death Match</a> </h3>
+</div>
+
+<a href="../data/showcase/TDM">
+  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_513.png" alt="Team Death Match" style="max-width: 100%; height: auto;">
+</a>
+
