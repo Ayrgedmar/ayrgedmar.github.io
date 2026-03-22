@@ -18,10 +18,10 @@ cover:  "/assets/Portfolio/Commercial_work/RY_Demo/art/Field.png"
 <li>The map should be divided into 3 zones:</li>
 </ul> 
 1. Almost linear, simple
-2. An open area with a view of the Arena
+2. An open area with a view of the Arena nd "Terem"
 3. Boss arena
 
-It’s important to note that the balance was set up so that levels and new abilities are granted when crossing pre-placed trigger zones at specific points
+It’s important to note that the balance was set up so that levels and new abilities are granted when crossing pre-placed trigger zones at specific points.
 
 <hr>
 
@@ -54,8 +54,8 @@ Objectives:
 
 <h3>Combat</h3>
 
-Enemies were placed progressively: starting with simple mobs without special abilities, becoming more complex further along
-At the exit of the zone, we placed the first “strong” enemy
+Enemies were placed progressively: starting with simple mobs without special abilities, becoming more complex further along.
+At the exit of the zone, we placed the first “strong” enemy.
 
 
 <h3>Design decisions</h3>
@@ -93,37 +93,99 @@ Before exiting the zone, I fully blocked the view of the next section of the map
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/Field.png">
 </a>
 
-Scheme
+For readability, I designed the location so that its elements are arranged from left to right from the start of the playthrough, and structured the forms in a way that guides the player toward the intended point (in addition to landmarks and POIs).
+<ul>
+<li>A hill on the left that guides the player’s взгляд (line of sight)</li>
+<li>Rocks + open field that create volume and lead toward the boss arena</li>
+<li>A visible bridge</li>
+<li>The arena itself</li>
+</ul> 
+
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_492_2.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/art/Screenshot_492_2.png">
+</a>
+
+<h3>Scheme</h3>
+
+The Scheme includes:
+
+<ul>
+<li>Interactive objects — marked in green. They provide stats bonuses and are placed in areas that require players to invest resources (time, combat skill, etc.)</li>
+<li>Enemies — marked in red</li>
+<li>References for each segment of the map</li>
+</ul> 
+
 
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_12_Refs.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_12_Refs.png">
 </a>
 
-<h3>Combat Land 1</h3>
+Below is a description of how combat works for each group of enemies:
 
-It was decided to place many small mobs across the field so players could get accustomed to the space
-Further exploration of the map leads players to several camps led by stronger enemies
+<h3>Combat Land 1</h3>
 
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_492.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_492.png">
 </a>
 
+At the start of the field, the simplest mobs are placed sparsely. The intended strategies are:
 
-Possible encounters include:
 <ul>
-<li>Melee mobs + two ranged mobs on elevated ground (forcing players to position carefully)</li>
+<li>Kill enemies one by one using ranged attacks</li>
+<li>Pull them into a group and use AoE attacks</li>
+</ul> 
+
+
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_22.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_22.png">
+</a>
+
+Further exploration of the map leads players to several camps led by stronger enemies.
+
+<ul>
 <li>A strong enemy positioned on high ground</li>
 <li>A large group of melee mobs below the hill for group combat</li>
 <li>When crossing the bridge, players are forced to fight strong enemies</li>
 </ul> 
 
+Melee mobs + two ranged mobs on elevated ground (forcing players to position carefully).
+
+Players can go directly toward the enemies but may end up in a position where ranged enemies (initially hidden behind rocks) deal damage, forcing players to reposition or engage them
+Alternatively, players can go around from above. Important: a unique enemy is placed at a distance where it may not notice the player immediately, but the players will be able to spot it
 
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_493.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_493.png">
 </a>
+
+By going from above, players can also spot the objective and the дальнейший путь (forward path).
+
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_503.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_503.png">
+</a>
+
+Behind the hill, I placed a grotto in such a way that enemies are not visible from below if players choose to attack from above
+There are many melee enemies there, encouraging players to approach more carefully — sending in a tank first while ranged characters take positions above
+After this fight, players can gain a stats bonus — rewarding exploration with a more challenging encounter
+
+<a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_32_1.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_32_1.png">
+</a>
+
+Deeper in the area, there are also enemies — these are ranged units. They are visible from the hill and can be attacked immediately if the player has a ranged class.
+Players can also support melee teammates as they approach on foot.
+
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_32.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_32.png">
 </a>
+
+Further ahead, several paths open up:
+(Blue — flank, Yellow — main)
+
+<ul>
+<li>The flank route through the forest allows players to get behind stronger enemies and gain an advantage</li>
+<li>The main route involves fighting through a camp</li>
+</ul> 
+
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_494.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_494.png">
 </a>
@@ -168,6 +230,9 @@ Before transitioning to the final zone, it was decided to create a “mob rush�
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_500.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_500.png">
 </a>
+
+The arena itself opens up a view of the terem (main structure / tower).
+
 <a href="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_501.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Commercial_work/RY_Demo/Screenshot_501.png">
 </a>
