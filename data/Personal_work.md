@@ -31,6 +31,6 @@
 </div>
 
 <a href="../data/showcase/TDM">
-  <img src="/assets/Portfolio/Personal_works/CGMA_Gig/Screenshot_513.png" alt="Team Death Match" style="max-width: 100%; height: auto;">
+  <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_513.png" alt="Team Death Match" style="max-width: 100%; height: auto;">
 </a>
 

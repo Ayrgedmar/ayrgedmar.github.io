@@ -41,17 +41,19 @@ To achieve this, I did:
 <a href="/assets/Portfolio/Personal_works/TDM/Screenshot_511.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_511.png">
 </a>
-<a href="/assets/Portfolio/Personal_works/TDM/Screenshot_506.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_506.png">
+<a href="/assets/Portfolio/Personal_works/TDM/Screenshot_504.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_504.png">
 </a>
+
+
 
 
 <h3>Teams</h3>
 
 Exits for both teams are designed to provide comparable advantages and are nearly symmetrical
 
-<a href="/assets/Portfolio/Personal_works/TDM/Screenshot_510.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_510.png">
+<a href="/assets/Portfolio/Personal_works/TDM/Screenshot_518.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_518.png">
 </a>
 
 <ul>
@@ -61,9 +63,7 @@ Exits for both teams are designed to provide comparable advantages and are nearl
 <li>Indoors for hiding and waiting for time</li>
 </ul>
 
-<a href="/assets/Portfolio/Personal_works/TDM/Screenshot_518.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_518.png">
-</a>
+
 <a href="/assets/Portfolio/Personal_works/TDM/Screenshot_517_1.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_517_1.png">
 </a>
@@ -77,8 +77,8 @@ Exits for both teams are designed to provide comparable advantages and are nearl
 
 Ammo is placed so that players have to leave active combat points, but not too far, allowing them to reposition strategically.
 
-<a href="/assets/Portfolio/Personal_works/TDM/Screenshot_504.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_504.png">
+<a href="/assets/Portfolio/Personal_works/TDM/Screenshot_519.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_519.png">
 </a>
 
 Medkits are placed in riskier areas — they can be reached relatively stealthily (especially from the high ground), but must be picked up quickly (so players can’t hold the position for long)
@@ -95,6 +95,10 @@ Shields are placed to force players to take risks and change their positioning d
 
 <a href="/assets/Portfolio/Personal_works/TDM/Screenshot_510.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_510.png">
+</a>
+
+<a href="/assets/Portfolio/Personal_works/TDM/Screenshot_520.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_520.png">
 </a>
 
 
