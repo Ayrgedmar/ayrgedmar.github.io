@@ -93,12 +93,11 @@ Medkits are placed in riskier areas — they can be reached relatively stealthil
 
 Shields are placed to force players to take risks and change their positioning during combat. Additional ones are positioned to help prepare for engagements or support positioning
 
-<a href="/assets/Portfolio/Personal_works/TDM/Screenshot_510.png" data-lightbox="refs" data-title="Refs">
-  <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_510.png">
-</a>
-
 <a href="/assets/Portfolio/Personal_works/TDM/Screenshot_520.png" data-lightbox="refs" data-title="Refs">
   <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_520.png">
+</a>
+<a href="/assets/Portfolio/Personal_works/TDM/Screenshot_510.png" data-lightbox="refs" data-title="Refs">
+  <img src="/assets/Portfolio/Personal_works/TDM/Screenshot_510.png">
 </a>
 
 
