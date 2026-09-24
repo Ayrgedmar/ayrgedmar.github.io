@@ -38,7 +38,7 @@ Developed and tested internal level design standards and coordinated workflow al
 <li>Defined the location design vision and reference framework for the project</li>
 <li>Built multiple prototype locations and one polished vertical slice demonstrating core gameplay</li>
 <li>Formulated and tested level design standards (metrics, composition rules, traversal, readability)</li>
-<li>Ensured cross-department pipeline synchronization (GD ↔ LA ↔ LD)</li>
+<li>Ensured cross-department pipeline synchronization</li>
 <li>Facilitated iterative playtesting and incorporated feedback into design guidelines</li>
 
 </ul>
@@ -62,7 +62,7 @@ Authored internal documentation, level design requirements, and workflow guideli
 
 <ul> 
 <li>Built and optimized the level design pipeline to improve predictability and delivery speed</li>
-<li>Ensured synchronization of pipelines across departments (LD ↔ Art ↔ Tech ↔ Narrative)</li>
+<li>Ensured synchronization of pipelines across departments</li>
 <li>Contributed to feature planning on the art side to streamline LD workflows</li>
 <li>Managed task planning, reviews, and daily coordination for the LD team</li>
 </ul>
@@ -74,7 +74,7 @@ Worked on a AA PC MOBA-shooter project in the style of Overwatch 2 / Team Fortre
 Designed multiple playable levels from early concepts to whitebox stage.
 
 <ul> 
-<li>Designed 4 maps across different game modes from layout → blockout → whitebox iteration</li>
+<li>Designed 4 maps across different game modes from layout to whitebox</li>
 <li>Built blockouts in Unreal Engine 5</li>
 <li>Set up basic gameplay logic, navigation, and interactions</li>
 <li>Participated in playtests and improved layouts based on feedback and metrics</li>
@@ -92,7 +92,7 @@ Sep 2022 - Nov 2023
 Designed 3 multiplayer maps from initial concept to whitebox stage for a mobile free-to-play first-person shooter.
 
 <ul> 
-<li>Created 3 fully playable maps (layout → blockout → whitebox → iteration)</li>
+<li>Created 3 fully playable maps</li>
 <li>Built blockouts and prototypes in Unity</li>
 <li>Conducted internal testing sessions and iterated based on feedback and analytics</li>
 <li>Set up gameplay logic, player flows, spawn points, objectives, and testing setups</li>
